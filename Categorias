@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR green] ◉[/COLOR] - Filmes</name>
+<name>[COLOR green] ◉[/COLOR] - [B]Filmes[/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange] ◉[/COLOR] - SÉRIES</name>
+<name>[COLOR orange] ◉[/COLOR] - [B]SÉRIES[/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red] ◉[/COLOR] - KIDS</name>
+<name>[COLOR red] ◉[/COLOR] - [B]KIDS[/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
