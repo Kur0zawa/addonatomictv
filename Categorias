@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green] ◉[/COLOR] - SÉRIES</name>
+<name>[COLOR orange] ◉[/COLOR] - SÉRIES</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green] ◉[/COLOR] - KIDS</name>
+<name>[COLOR red] ◉[/COLOR] - KIDS</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
