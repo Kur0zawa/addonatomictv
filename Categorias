@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR red] ■[/COLOR] - [B]TV AO VIVO[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - TUDO PARA A CRIANÇADA  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR green] ■[/COLOR] - [B]Filmes[/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
@@ -30,7 +45,37 @@
 
 <channels>
 <channel>
+<name>[COLOR red] ■[/COLOR] - [B]DESENHOS[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - TUDO PARA A CRIANÇADA  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR red] ■[/COLOR] - [B]KIDS[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - TUDO PARA A CRIANÇADA  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR red] ■[/COLOR] - [B]ANIMES[/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
