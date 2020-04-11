@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR blue]LANÇAMENTOS 2020[/COLOR][/B]</name>
+<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR red]LANÇAMENTOS 2020[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Kur0zawa/testedeaddon/master/LAN%C3%87AMENTOS%202020</externallink>
 <fanart></fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR blue]2019[/COLOR][/B]</name>
+<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR red]2019[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR blue]2018[/COLOR][/B]</name>
+<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR red]2018[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -45,7 +45,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR blue]AÇÃO[/COLOR][/B]</name>
+<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR red]AÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -60,7 +60,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR blue]ANIMAÇÃO[/COLOR][/B]</name>
+<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR red]ANIMAÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -75,7 +75,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR blue]AVENTURA[/COLOR][/B]</name>
+<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR red]AVENTURA[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -90,7 +90,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR blue]COMÉDIA[/COLOR][/B]</name>
+<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR red]COMÉDIA[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -105,7 +105,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR blue]TODOS OS GENEROS[/COLOR][/B]</name>
+<name>[COLOR green] ■[/COLOR] - [B]Filmes - [COLOR red]TODOS OS GENEROS[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
