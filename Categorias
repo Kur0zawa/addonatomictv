@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR red] ■[/COLOR] - [B]TV AO VIVO[/B]</name>
+<name>[COLOR red] ●[/COLOR] - [B]TV AO VIVO[/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime] ◉[/COLOR] - [B]Filmes[/B]</name>
+<name>[COLOR lime] ●[/COLOR] - [B]Filmes[/B]</name>
 <thumbnail>https://ia601405.us.archive.org/8/items/CANIMES/CFILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Kur0zawa/testedeaddon/master/CategoriasDeFilmes</externallink>
 <fanart>https://image.tmdb.org/t/p/original/eJ4kZhNhyGqDTBQ4fc6SWmAX5Rt.jpg</fanart>
@@ -31,7 +31,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange] ■[/COLOR] - [B]SÉRIES[/B]</name>
+<name>[COLOR orange] ●[/COLOR] - [B]SÉRIES[/B]</name>
 <thumbnail>https://ia801405.us.archive.org/8/items/CANIMES/CSERIES.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://image.tmdb.org/t/p/original/AcNgofHHcW0iAKhWB7yRFjPdYsZ.jpg</fanart>
@@ -46,7 +46,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red] ■[/COLOR] - [B]DESENHOS[/B]</name>
+<name>[COLOR red] ●[/COLOR] - [B]DESENHOS[/B]</name>
 <thumbnail>https://ia801405.us.archive.org/8/items/CANIMES/DESENHOS.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801501.us.archive.org/32/items/FFILMES/FDESENHO.png</fanart>
@@ -61,7 +61,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red] ■[/COLOR] - [B]ANIMES[/B]</name>
+<name>[COLOR red] ●[/COLOR] - [B]ANIMES[/B]</name>
 <thumbnail>https://archive.org/download/CANIMES/CANIMES.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801501.us.archive.org/32/items/FFILMES/FANIMES.png</fanart>
