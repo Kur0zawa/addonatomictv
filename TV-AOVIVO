@@ -1,5 +1,741 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ae_br.jpg" group-title="Entretenimento",A&E Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/625
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ae_br.jpg" group-title="Entretenimento",A&E HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/626
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ae_br.jpg" group-title="Entretenimento",A&E SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/627
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="Filmes ( canais )",AMC Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/727
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="Filmes ( canais )",AMC Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/780
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="Filmes ( canais )",AMC HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/728
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="Filmes ( canais )",AMC HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/781
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="Filmes ( canais )",AMC SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/729
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="Filmes ( canais )",AMC SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/782
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_br.jpg" group-title="Entretenimento",Animal Planet Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/628
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_br.jpg" group-title="Entretenimento",Animal Planet HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/629
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_br.jpg" group-title="Entretenimento",Animal Planet SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/630
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arte_1_br.jpg" group-title="Diversos",Arte 1 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/569
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arte_1_br.jpg" group-title="Diversos",Arte 1 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/570
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv_lam.jpg" group-title="Infantil",Baby TV HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/786
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv_lam.jpg" group-title="Infantil",Baby TV SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/787
+#EXTINF:-1 tvg-id="Band" tvg-name="Band Campinas SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_nacional.jpg" group-title="Abertos",Band Campinas SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/465
+#EXTINF:-1 tvg-id="Band News FHD H.265" tvg-name="Band News Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_news.jpg" group-title="Noticias",Band News Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/837
+#EXTINF:-1 tvg-id="Band News HD [Alter]" tvg-name="Band News HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_news.jpg" group-title="Noticias",Band News HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/838
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_news.jpg" group-title="Noticias",Band News SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/839
+#EXTINF:-1 tvg-id="Band" tvg-name="Band Nordeste SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_nacional.jpg" group-title="Abertos",Band Nordeste SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/467
+#EXTINF:-1 tvg-id="Band FHD" tvg-name="Band SP Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_nacional.jpg" group-title="Abertos",Band SP Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/524
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band SP HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_nacional.jpg" group-title="Abertos",Band SP HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/466
+#EXTINF:-1 tvg-id="Band" tvg-name="Band SP SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_nacional.jpg" group-title="Abertos",Band SP SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/468
+#EXTINF:-1 tvg-id="Band Sports FHD" tvg-name="Band Sports Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_sports.jpg" group-title="Esportes",Band Sports Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/726
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_sports.jpg" group-title="Esportes",Band Sports HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/672
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_sports.jpg" group-title="Esportes",Band Sports SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/673
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 Mosaico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB 20 Mosaico
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/659
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB 2020
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/658
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB Cam 01
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/660
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB Cam 02
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/661
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 03" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB Cam 03
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/662
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 04" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB Cam 04
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/663
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 05" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB Cam 05
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/664
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 06" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB Cam 06
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/665
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 07" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB Cam 07
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/666
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 08" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB Cam 08
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/667
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 09" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB Cam 09
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/668
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Big_Brother_Brasil_20.png" group-title="Entretenimento",BBB Cam 10
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/669
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="Bis HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bis_br.jpg" group-title="Esportes",Bis HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/674
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalbrasil.jpg" group-title="Diversos",Canal Brasil SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/571
+#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="Cartoon Network Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_br.jpg" group-title="Infantil",Cartoon Network Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/788
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_br.jpg" group-title="Infantil",Cartoon Network HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/789
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_br.jpg" group-title="Infantil",Cartoon Network SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/790
+#EXTINF:-1 tvg-id="" tvg-name="Chef TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1100825897605754883/llKj-za1.png" group-title="Entretenimento",Chef TV HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20812
+#EXTINF:-1 tvg-id="" tvg-name="Cnt SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_cnt_br.jpg" group-title="Diversos",Cnt SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/572
+#EXTINF:-1 tvg-id="Combate FHD" tvg-name="Combate Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_combate.jpg" group-title="Esportes",Combate Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/675
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_combate.jpg" group-title="Esportes",Combate HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/676
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_combate.jpg" group-title="Esportes",Combate SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/677
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_br.jpg" group-title="Entretenimento",Comedy Central Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/631
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_br.jpg" group-title="Entretenimento",Comedy Central HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/632
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_br.jpg" group-title="Entretenimento",Comedy Central SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/633
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 1" tvg-logo="" group-title="Esportes",Copa do Nordeste 1
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20818
+#EXTINF:-1 tvg-id="TV Cultura HD" tvg-name="Cultura HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_cultura_nacional.jpg" group-title="Diversos",Cultura HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/573
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="Cultura SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_cultura_nacional.jpg" group-title="Diversos",Cultura SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/574
+#EXTINF:-1 tvg-id="Curta HD [Alter]" tvg-name="Curta! HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/curta_br.jpg" group-title="Entretenimento",Curta! HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/634
+#EXTINF:-1 tvg-id="Curta" tvg-name="Curta! SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/curta_br.jpg" group-title="Entretenimento",Curta! SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/635
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="Esportes",DAZN
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/725
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="Esportes",DAZN 2
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20810
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery Channel Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_lam.jpg" group-title="Documentários",Discovery Channel Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/617
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_lam.jpg" group-title="Documentários",Discovery Channel HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/588
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_lam.jpg" group-title="Documentários",Discovery Channel HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/623
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_lam.jpg" group-title="Documentários",Discovery Channel SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/589
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_br.jpg" group-title="Documentários",Discovery Channel SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/624
+#EXTINF:-1 tvg-id="Discovery Home Health FHD" tvg-name="Discovery Home & Health Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_home_health_br_hd.jpg" group-title="Documentários",Discovery Home & Health Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/590
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="Discovery Home & Health HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_home_health_br_hd.jpg" group-title="Documentários",Discovery Home & Health HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/591
+#EXTINF:-1 tvg-id="Discovery Home Health" tvg-name="Discovery Home & Health SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_home_health_br.jpg" group-title="Documentários",Discovery Home & Health SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/592
+#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="Discovery Kids Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_kids_br.jpg" group-title="Infantil",Discovery Kids Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/791
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_kids_br.jpg" group-title="Infantil",Discovery Kids HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/792
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_kids_br.jpg" group-title="Infantil",Discovery Kids SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/793
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="Documentários",Discovery Science Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/593
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="Documentários",Discovery Science HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/594
+#EXTINF:-1 tvg-id="Discovery Science [Alter 2]" tvg-name="Discovery Science SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="Documentários",Discovery Science SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/595
+#EXTINF:-1 tvg-id="Discovery Theater FHD" tvg-name="Discovery Theater Full HD" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1258711.jpg" group-title="Documentários",Discovery Theater Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/596
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1258711.jpg" group-title="Documentários",Discovery Theater HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/597
+#EXTINF:-1 tvg-id="Discovery Theater [Alter 2]" tvg-name="Discovery Theater SD" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1258711.jpg" group-title="Documentários",Discovery Theater SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/598
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="Discovery TLC Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" group-title="Filmes ( canais )",Discovery TLC Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/783
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="Discovery TLC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" group-title="Documentários",Discovery TLC HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/599
+#EXTINF:-1 tvg-id="TLC" tvg-name="Discovery TLC SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" group-title="Documentários",Discovery TLC SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/600
+#EXTINF:-1 tvg-id="Discovery Turbo FHD" tvg-name="Discovery Turbo Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_lam.jpg" group-title="Documentários",Discovery Turbo Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/601
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_lam.jpg" group-title="Documentários",Discovery Turbo HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/602
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_lam.jpg" group-title="Documentários",Discovery Turbo SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/603
+#EXTINF:-1 tvg-id="Discovery World FHD" tvg-name="Discovery World Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_world.jpg" group-title="Documentários",Discovery World Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/604
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_world.jpg" group-title="Documentários",Discovery World HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/605
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_world.jpg" group-title="Documentários",Discovery World SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/606
+#EXTINF:-1 tvg-id="Disney Channel FHD" tvg-name="Disney Channel Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_br.jpg" group-title="Infantil",Disney Channel Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/794
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Disney Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_br.jpg" group-title="Infantil",Disney Channel HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/796
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Disney Channel SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_br.jpg" group-title="Infantil",Disney Channel SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/797
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="Disney Junior Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_br.jpg" group-title="Infantil",Disney Junior Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/798
+#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="Disney Junior HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_br.jpg" group-title="Infantil",Disney Junior HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/816
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_br.jpg" group-title="Infantil",Disney Junior SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/799
+#EXTINF:-1 tvg-id="Disney XD HD [Alter]" tvg-name="Disney Xd Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_hd.jpg" group-title="Infantil",Disney Xd Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/800
+#EXTINF:-1 tvg-id="Disney XD HD [Alter]" tvg-name="Disney XD HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_hd.jpg" group-title="Infantil",Disney XD HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/801
+#EXTINF:-1 tvg-id="" tvg-name="Disney Xd SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_br.jpg" group-title="Infantil",Disney Xd SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/802
+#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_br.jpg" group-title="Entretenimento",E! HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/639
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_br.jpg" group-title="Entretenimento",E! SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/640
+#EXTINF:-1 tvg-id="EI Plus HD" tvg-name="Ei Plus" tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png" group-title="Esportes",Ei Plus
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/678
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_2_caribbean.jpg" group-title="Esportes",ESPN 2 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/722
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_2_caribbean.jpg" group-title="Esportes",ESPN 2 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/679
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_2_caribbean.jpg" group-title="Esportes",ESPN 2 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/680
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-name="ESPN Brasil Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_br.jpg" group-title="Esportes",ESPN Brasil Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/681
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_br.jpg" group-title="Esportes",ESPN Brasil HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/682
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_br.jpg" group-title="Esportes",ESPN Brasil SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/683
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN Extra HD" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Esportes",ESPN Extra HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/724
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra SD" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Esportes",ESPN Extra SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/723
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_au.jpg" group-title="Esportes",ESPN Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/684
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_lam_hd.jpg" group-title="Esportes",ESPN HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/685
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_au.jpg" group-title="Esportes",ESPN SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/686
+#EXTINF:-1 tvg-id="Fish TV HD [Alter]" tvg-name="Fish TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fish_tv_br.jpg" group-title="Entretenimento",Fish TV HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/641
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fish_tv_br.jpg" group-title="Entretenimento",Fish TV SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/642
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_network_ca_hd.jpg" group-title="Entretenimento",Food Network Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/643
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_network_ca_hd.jpg" group-title="Entretenimento",Food Network HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/644
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_network_ca.jpg" group-title="Entretenimento",Food Network SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/645
+#EXTINF:-1 tvg-id="FOX FHD" tvg-name="Fox Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_hd_lam.jpg" group-title="Filmes ( canais )",Fox Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20819
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="Fox HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_hd_lam.jpg" group-title="Filmes ( canais )",Fox HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20820
+#EXTINF:-1 tvg-id="FOX Life FHD H.265" tvg-name="Fox Life Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_br.jpg" group-title="Filmes ( canais )",Fox Life Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/784
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-name="Fox Life HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_br.jpg" group-title="Filmes ( canais )",Fox Life HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20821
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_br.jpg" group-title="Filmes ( canais )",Fox Life SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20822
+#EXTINF:-1 tvg-id="Fox Premium 1 FHD" tvg-name="Fox Premium 1 Full HD" tvg-logo="https://pbs.twimg.com/profile_images/1123321904281026560/ZoPNzJBH_400x400.png" group-title="Filmes ( canais )",Fox Premium 1 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20823
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1123321904281026560/ZoPNzJBH_400x400.png" group-title="Filmes ( canais )",Fox Premium 1 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20824
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1 SD" tvg-logo="https://pbs.twimg.com/profile_images/1123321904281026560/ZoPNzJBH_400x400.png" group-title="Filmes ( canais )",Fox Premium 1 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20825
+#EXTINF:-1 tvg-id="Fox Premium 2 FHD" tvg-name="Fox Premium 2 Full HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png" group-title="Filmes ( canais )",Fox Premium 2 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20826
+#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-name="Fox Premium 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png" group-title="Filmes ( canais )",Fox Premium 2 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20827
+#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-name="Fox Premium 2 SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png" group-title="Filmes ( canais )",Fox Premium 2 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20828
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox SD" tvg-logo="https://assets.b9.com.br/wp-content/uploads/2018/08/fox-b9.jpg" group-title="Filmes ( canais )",Fox SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20829
+#EXTINF:-1 tvg-id="FOX Sportv 2 FHD" tvg-name="Fox Sports 2 Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_2.jpg" group-title="Esportes",Fox Sports 2 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/687
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_2.jpg" group-title="Esportes",Fox Sports 2 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/688
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2 SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_2.jpg" group-title="Esportes",Fox Sports 2 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/689
+#EXTINF:-1 tvg-id="Fox Sports FHD" tvg-name="Fox Sports Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_basico.jpg" group-title="Esportes",Fox Sports Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/690
+#EXTINF:-1 tvg-id="Fox Sport HD" tvg-name="Fox Sports HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_hd.jpg" group-title="Esportes",Fox Sports HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/691
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_basico.jpg" group-title="Esportes",Fox Sports SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/692
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_futura.jpg" group-title="Diversos",Futura HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/575
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_futura.jpg" group-title="Diversos",Futura SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/576
+#EXTINF:-1 tvg-id="Tv Anhanguera" tvg-name="Globo Anhanguera Goiania SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="Abertos",Globo Anhanguera Goiania SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/469
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Asa Branca SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="Abertos",Globo Asa Branca SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/522
+#EXTINF:-1 tvg-id="Globo Nsc Tv Blumenau" tvg-name="Globo Blumenau SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="Abertos",Globo Blumenau SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/528
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo Brasilia SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_brasilia.jpg" group-title="Abertos",Globo Brasilia SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/470
+#EXTINF:-1 tvg-id="Globo Centro America Cuiaba" tvg-name="Globo Centro América SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="Abertos",Globo Centro América SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/471
+#EXTINF:-1 tvg-id="Globo Eptv Campinas HD" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Abertos",Globo EPTV Campinas HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/472
+#EXTINF:-1 tvg-id="Globo Eptv Campinas" tvg-name="Globo EPTV Campinas SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Abertos",Globo EPTV Campinas SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/473
+#EXTINF:-1 tvg-id="Globo EPTV São Carlos" tvg-name="Globo EPTV Sao Carlos SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Abertos",Globo EPTV Sao Carlos SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/474
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="Globo INTER TV Cabugi RN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_InterTV.png" group-title="Abertos",Globo INTER TV Cabugi RN SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/520
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo Internacional SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_globo_internacional.jpg" group-title="Abertos",Globo Internacional SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/475
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo Itapetininga SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="Abertos",Globo Itapetininga SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/529
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_minas.jpg" group-title="Abertos",Globo Minas HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/476
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_minas.jpg" group-title="Abertos",Globo Minas SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/477
+#EXTINF:-1 tvg-id="Globo News FHD" tvg-name="Globo News Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/globo_news.jpg" group-title="Noticias",Globo News Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/840
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/globo_news.jpg" group-title="Noticias",Globo News HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/841
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/globo_news.jpg" group-title="Noticias",Globo News SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/842
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_nordeste_recife.jpg" group-title="Abertos",Globo Nordeste Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/478
+#EXTINF:-1 tvg-id="Globo Nordeste HD [Alter]" tvg-name="Globo Nordeste HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_nordeste_recife.jpg" group-title="Abertos",Globo Nordeste HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/479
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_nordeste_recife.jpg" group-title="Abertos",Globo Nordeste SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/480
+#EXTINF:-1 tvg-id="Globo Nsc Tv Blumenau" tvg-name="Globo Nsc Blumenau SD" tvg-logo="https://s2.glbimg.com/z-i8C5cLbl_8k7c8grBIJC4FDSw=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2017/D/0/WHMLAvTSiUagr3bqVlGg/nsc-tv.jpg" group-title="Abertos",Globo Nsc Blumenau SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/527
+#EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis" tvg-name="Globo NSC Florianopolis SD" tvg-logo="https://s2.glbimg.com/z-i8C5cLbl_8k7c8grBIJC4FDSw=/200x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2017/D/0/WHMLAvTSiUagr3bqVlGg/nsc-tv.jpg" group-title="Abertos",Globo NSC Florianopolis SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20815
+#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD [Alter 2]" tvg-name="Globo RBS Porto Alegre SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Rbs_tv_logo.jpg" group-title="Abertos",Globo RBS Porto Alegre SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/481
+#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Rbs_tv_logo.jpg" group-title="Abertos",Globo RBS TV Pelotas HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/531
+#EXTINF:-1 tvg-id="Globo RBS TV POA FHD H.265" tvg-name="Globo RBS TV Poa SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Rbs_tv_logo.jpg" group-title="Abertos",Globo RBS TV Poa SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/482
+#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto" tvg-name="Globo Ribeirao Preto SD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAREBASEhIVEBUXEhUWFRUVEBAQDxARFxUWFhYVFRUYHSgsGholGxcXITEhJTUtLi4uFx8zODUsNygtLysBCgoKDg0OGxAQGi0lIB8rLS0tLy8tLSstKy0tLSstLSstLS0tKy0tLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLf/AABEIAMgAyAMBEQACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgIDBAUHAQj/xABCEAABAwICBAoHBgYBBQAAAAABAAIDBBEFEgYhMUEHEyIyUWFxgZGxUnJzobLB0RQjJDVCkkNTYnSC4TQzZKLC8P/EABsBAQACAwEBAAAAAAAAAAAAAAAEBQEDBgIH/8QAMREBAAIBAgQEBQQABwAAAAAAAAECAwQRBRIhMTJBUXETIjNhsTSBkcEGFCMkQuHw/9oADAMBAAIRAxEAPwDuKAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICC1NUMZznAeZ7kGMa9x5kZPW7kNWdhSTOf1MZ2NLj702D7O87Zn9waEAUh/nSeIQeiCQbJj3tBQe5527mv7OSVgVNxADU9rmHrFx4oMpjwRcEEdSCpAQEBAQEBAQEBAQEBAQUSytaLuNggw3zyP5v3bek889g3LOw8jpmt17T0nWfFZFwuQUlyDzMgZkHudB6JU2FfGg7dabCw6nF7sJjPVzT3LArjrC02kFv6hzSmwzQb6xrWB6gICAgICAgICAgILNVNkGoZiTYDdfrPQgxGxknM85j7h2BehdJQUlyCm6DxAQEBAQEBB452qx1hBajldEbjW3eOhJgbOGZrxcG/yXkXEFmrqo4mOkkcGMaLuc42aAs1rNp2hi1orG8q4JWva17TdrmhwOy4IuCkxszCtYBAQEBAQW6iZrGlzjYAXJWLWisbyxM7dUKr+Pr5A6N5iETs8ZBsMw2X6SfcqudZa2Tp2hqpz5Lbx2bzCcT45pBGSRuqRmwg9I6lZ4ssZI3SJrMM262PLxAQEBAQEBAQEHhCyLT2rIsxSmN1xs3jpC8zAzMTxunp4HTyvDGAb9pPogbz1LNKWvO0PF7xSN5cL0p0vnxapjhF44TK1rIwecS4AOf0nX3K1x4a4azPn6oFsk5LRu+goow1rWjYAAOwCyp1krQEBAQEBBDdIMQM8nFs5jTb13dKp9bqOaeWO0I1557csNzh9KIo2sHeel28qFE7QsKUisbQ1uNULw4VEGqVu0bpW7wRvK24NRNLPcxExtLMwjFGVDMzdRGpzTzmH6K/x5IvG8I9qzWWcvbyICAgICAgICAg8csjEeFiRA+GWfLR0kfpSucewC3zU7Qx1tKDq5+ase8/0g3BrR8bilILXDXl57GNLvMBStTbbFLXgjfJD6SVKshAQEBAQabSXEOLjyNPKfq7G7z8lF1WXkptHeWrLfaNo82iwiAZ237fBc7fJvbZ70+LzSMleptumxC26YBeqVmXuKTKN4vSPjk+002p457P0yDfq6Vaaa006M2xbw3OCYxHVR5m6nDnsPOYfmOtWtbc0IdqTWWxWXgQEBAQEBAQCdpOoDWSTYAdJKEzsgmO8JlHDMIow6oANnvaQGN168t+dZS66S813noizqq820dvVL7ggEbCLjrCiJTlvDZU3npYvQhue1x/0rPRRtjmfWVbqZ3y+0flTwG0maumk/lwEDte4DyBWNdb5Ij7tmlj5pl3FVacICAgIBQc5qcVFRUyOBu0OLW+qNQ8dveqjiO8Tu0Vr8TIz6epDXNKodpmV3jw/Ls2T626k0q2RhYzqlTMcNkY1BnUqr1yNLiFE9kn2imOSQa3NHNkG/V8t6k0ybNGXT80dEg0e0ijqhlP3co50Z1HVtLb7R5KbW8WVl8c1bpemsQEBAQEGm0h0npKFt55BmtqjbZ0rv8d3aVtx4b5OzVkzVp083HtLtPamuuxv3EP8ALadb/Xdv7Nis8Onrj695QMmW2Tv29ESW94fQmhlZx9BSP2kxNafWbyD5Kkz15ckwtMU70iXLOFmpz4pMPQaxng1WmmjbFCtyTvktP3/pJuBeLi455/Slazta1tz8Sia6fmiEvSx8sy7CCoCUICAgINFptiX2ahqJAbOLcjfWfyfmT3LZipzXiGLTtDlGj9ZZQuKYN2dJHzJF9ouud5dpdHjp0Xoq4jUV7q28i+KpSaMcqoTqREvOz3j17Ya3EaASESMPFyjWHjVrGy9vNbKZJq05cEXbTAtLSHCCsHFv2Nk2RydvQevZ2KbTLFlTlwTSUvBW1HEHhKDWY3pDS0bc08rWdDedK7sYNa2Y8V7+GGu+WtO7l+kvClPLdlI37OzZnNnTuHVub3Kfj0la9bdfwh5NRa3bpDn80rnuLnOL3E6y4kuJ6yVL7NDtmivB7RwNBkH2iVzCMzxyGFzf0M+ZuVVZNVe09OkJ9dPWK/eXF66AxyyRna17m+BIVtvv1V1ezr/AxV56V0R/hzn9rgHeeZVetrtff1hY6ad6bejmGl1TxtdVv6Zn+ANgrHHG1Ij7Qr4nfefWZ/LrPBzScXhsHS/PIf8AJxt7gFVaq2+WVlgjakJ/h0maNvVq8FGbmSgICAg51wzVdoKeIfqkLj2NFh8Sm6Ku9pli0bw5jhlTlcFnXYt6Pemj5krp6i4C4zNXls6bDG9V7jVrizfyrkcq3Us8zVkskUmstUwuh62w8Pc6ywtVMDJG5XjMPeOwrMTMdnm1YtG0qsGrKylOWNrqqH0P1xDqduHu7FLxZZnordTp60+bdt8X08oaccuXO+3/AEo7SPB6HOBsD3qxx6bJfy291RfUUr26ufY9wn1c1207RSs6Qc8xHrHZ3Kbj0lK9bdUW+ovbt0RCkpairmDGB08r7nW67j0kk7lItatI3npDVWs2naEtxTg+NJh81TPJmkaWARs5jcxsczjzj2KPj1PxMnLEdGzLinHTefWEGbtCltUPpqndYMPQG+QXPz3W7hfCVRcTidSLWDnB47HC/mrrT25sdZVN42vaPv8A9t1wO4kIp6tpNgaZ0g9aO/ycVp1dObl927Dfli3sgVQ8ue47y4nvJUxGpHyxD6Iwil4qmgj9CJje8NF/eqG9ua0yt6xtEQ3ODO57ewrzL02awCAgIOTcMcl54W9EV/Fx+istDHyyeTmsDrOW/UxvRv03iSKgqtQXHazF8zosE9G0Y+6rphK3XA9eYYmF+OZSKXarVZ8UbyM1rN9J3JZ+46lOxUvfwxKJlzY8fitEMKrxyih59Sxx9GIGZ3iNXvVjj4bnv3jZW5eL4K+HeVOjWkENXVsijjeG6iTIW3dygLZRsGvpXvPoPgVi0zvvOzxp+I2z80bbbRMohpxjFS6rqYTK7imSua2MHJGGg6hlba/ervBipWkTEeTnb5L3mZtO/Wfy1OFYJPUXMbeSDYuJDWg9C859Xiw+OeqRp9Hlz9aR09WRpBo3PRiJ0ha5kgJa5pJbmHOabjUQs6fUUz15qteowWwX5LMfR2qdFV00jdomZ3guAI7wSFsy1i1JiXjHO1ol2jhK/Kan14/iVZo/q/tKVrPpx7w4O3aO1W8oUPpeLmt9UeS5+e63hzDhrpLTUs/pxFp9Zh+hVnorb0mPSVdqY2ye8fhAsJr3QSF7dV45GH1XsLT5qZNYnu0W32mI81zR6l46rpo/SmYD2ZgT7gV4y25aTP2e8cb2iH0SVRLVfwo2kI6Wn5LI3CwCAgIORcLAJrB7Btv3OVnovBPuT2c2l1OUvLG9XvTztZmUk1lzOtxdXSae28N1TVSp70S2eyW60WrsKNPMXlo5YYaa0QNPG9zwxrpXucLnlOBt3Lr+HaHB8GLzXeXE6/W57Z7U5piI8oQOrrppjeWR8p/qe5/mreKxWOkKzrLIosEqZbZInW6XchviVHya3Bj8Vo/KXi0OfJ4az+/ROtAdHZKaqjke5pJLW5W3NuU07e5VWq11M/LWsT3W2l4ffTxa95jrEodpn+YVnt3+avMfgj2hzvnPvP5Sfg/H4Z/tT8LVz/GJ/wBWPZ0/BfoT7snhVqWsgoqX+IM0rxvZm2AqfwvFNcW8+ao4pljJqPl8kI0dpHy1MTWHKQ7PmtcNy67+NlI12eMGC159v5a9DgnPnrT+XTtJayokwesE4bdr4gHN1ZwTtI3FVnCs/wAW+/ol8W0/waxHrMflyBu0doV9Kph9MRc1vYPJUE91uh/C5R8ZhzJN8Uw/a8W81M0NtrzHrCHq69K2+/5cWVoiJ/wZaMTmojrHtyRMzFmbU6RxaQC0dAvtUHV5q8s0julafFO/NLrSrE1dw3/rDsKyN0sAgICDlnCzF+Jgd0w28HH6qx0U/LMHk5lXx2N1PnrDVTJEXWY32VPq8fR0GlybsynqVSXotYbannUS9Ht5wq/8uD+0g+Fdlw/6FXz3Wfqb+7Q6Lj8VH/l8JWvi07aS37flJ4TG+rr+/wCHRYnLkaS7G0NnhJ+/h9o3zClYvFCNn+nb2lyvTP8AMKz27/Ndlj8Ee0OF8595/K9gmlc1HA6OFjA8vLuNcM72XAFmg6gdW1acmlx5L89oSKanLTH8Os7Q1ZM9VMSc00rzck3c4npJ3Bbb5KYqc1p2iGvHivkty0jeZdC0XwEUrCXWMjucRsaPRH1XH8S4h/mrbV8Mdvv93YcN4fGmrvbxT3+32bTSj8nrfaReamcC8c/+8lb/AIh8NPf+3H27l089nPR3djpMRroALPbUssOS/VIB1O+q42mu67Wddk4dvG9WZVYq3EaSrpRDIyUxXDS3MwPbrHL3X67K00morzxZUazTWikx5tTofwcsiyzVgEkm0RbY4/W9I9WztUzPq5t8tOyLi08R1s6CAoKU8cgu4SLynqb8wg3KAgICDnfCjTOc6F+5tx2Zv9hTdHbaZh4vO1Zc9qaLMFPnJsp75Zi27RzUxaSoGpvEwvuHauJmIY2YtKppdTS8TDNp6qy03pu3xLccKJ/FU/8AZwfCun0H0IfPdb+pv7o9gFVHFUMfLmDAHXyNDnc02sCRvXrWaf4+Gce+2+zOk1H+Xyxk2323SKp04Y3VBTD15nmQ/sbYeag4eDYaeKd0zNxnUX8O0NxwfYxNU1BdK4G0sVgGNY1tydgaFo4hgx4rY+SNkvh2fJlxZOe0zsh2mn5jWe3f5q8x+CPaHPec+8/lmaL6NsqWGWR5DQ4tytABNrbXd6rdfr7YLclI67d1xw7htdRXnvPTfbZOsPw+GBuWJgYN9uce071zGpz5c075J3dNp9PiwxtjjZkqIkMfSj8nrPaRea6DgXjlzf8AiDtT3/tx9u7tXTS56rt+HYPPOGl96eOw1auPkH/oPeuOxaLrvd1ubiHTlxpPR0ccLAyNoY3q2k9JO89ZVhWsVjaFXa02neV5ZeRoug8qTYAIL2BNvxjusD5/NBtkBAQEGi0rpWvjbm5p5Dj6N9bXdxHvXulprbeGLRvGznNdhpYS120eBG4jqU29+au8KLUY5i0xKO11NrKrsky8YM047NNVUyi2h1Gi4jv0mWA4FqRLoMWoiyScJh/EUv8AZU/wLodF9GHE6yf9zdFKeEvcGi1z07Fvy5a4qTe3aHjBhtmyRSveUgw/R2M2MkhPU3UPEqny8Wt2pX+V3h4LWOuS38JrotRwwzQiJuW8rL6ySeVquSq6+fJmvE3nfZYxp8WDFaMcbdEA01/Ma327/NdVj8Ee0OO8595/KTaBH8Kfau8mrnuLR/rR7Q6jg/6f95SdrlTXquayTTNaLuIaOkmy0cszO0PU2isbyrqqCasoKiCOMs4x0ZY+T7tjgDrsNuzqV7wqJwTNruc4xMajlik9nmjXB1S01nzfiZBr5QtC09TN/aVY5dXe/SOkK/Hp6179U1URveIPCUFcO8oMOul2oNzhMOWFt9p5R79aDMQEBAQY9fTCWN7DvHgdx8UEHfCJW8U/kvbcNcdxH6XdS2UvytGfBGWPujGJUDmuLXDKRuUXPbqpb45rO0tHV0fUo3Pu9Y7TWWpqaXas7rjTa6Y7tjwnD8TTf2VP8C6TRfRhE1E75rT7ItROs8HtWNf9CyVwv9VX9/wkNLV23rnJh10pZo42QywyFpbG2Rpc93IjDQQSczrBeseO1rRtCLqc2OlJi0x2QLS6Zr6+rexwe10zyHA3a4X2grqscbUiPtDi/Ofefy3+hlU1sGXWXGR1mtBc86m7GhUPFKzbPG3pDpeE5K00/WfOU0o8Jq5dZApm9L+XMR1MGzvKhV0u/iScnEIjpRu8PwKCIh1jK/05DncPVGxvcpNMVadoV+TPfJ3ltcy2NL3MgZkHhcgpLkFbn5WoMCBhllazde7vVG1ZEsCwCAgICAgimk9DkeJWjku1O6ndPeg1kgZK0Nk3c145zerrHUvN6RaOrVlw1yR1aWvwot2i43OGtp+ir8lJpPVWZNPak9Wkq8M22XmLtHWGt4VBargH/ZwfCuq0P0YSsnj/AGhFcOkibI10oc5gvcMcGvOrVYkG2tbc+L4tJp6veDNOG8Xjybg6TiP/AI1NFB0PcDUTduZ+oHsCj49Bir36pGXiOoydJttH2Yo+34g/+NUn/JzG/Jqk748UeUInLa8+qTYTwYVD7GokbCPRb95J9B71Gvrax4Y3SK6WZ8UuiaO4BBQx8XFc3N3PdYyOOreANWrYoGXJOS28pdKRSOWG1utb0XQe3Qe3QeEoKXPQUsdcoMauqdyDbaO0ZawyO5z9nUzd47UG4QEBAQEBBaqqdsjHMcLgi3+0EGq6Z0Mhjd3Hc5u4rIqjk/2NxWJgWZ8PY/ZyT1a2+Ci30lZ8PRHvpqW7dEQ4RMDqaqtj4iMyNFPE0u1NYCAQQXFXeky0x4Yi0o98N5yTtHox8M4MZXWM8zYx6MYL3fuNh5rN9dEeGHuuln/lKW4ZoLh8NjxXHO6ZTn/8dnuUa+qyW89m+uCkeSSxMa0BrQGgbAAGtHcFHmZnu3dld1gLoF0Hl0DMg8zoKHSILLpUCWfIOtB5g9CZ5LnmNPK/qPooJgAgICAgICAgIMHFsNbOyx1OHNd0H6IIbNG+N5Y8WI946R1LIrY9YF9kiC816C416CsOQe5kDMgZkHhcgodIgtukQWnSIKTKGi527ggpoaR9S+w1N/U7cB9VkTSlp2xsDGiwH/1z1rAuoCAgICAgICAgwsUw1k7bO1Ec1w2t+o6kEPraSSB2V41bnDmu7D8lkUMkWBebIguNkQXBIgq4xA4xB4ZEFJkQUOkQWy66C2+UN6z7ggycMwqSoOY3aze47Xer9UEvpaZkbQxgsB7+s9aC8gICAgICAgICAgILc8LXtLXAOB3FBG8Q0bc27oTcegTr7j9UGkkzMOV7S09BFisipsiC4JFge8Yg94xB4ZEFJkQUOlCyK6eGWU2jaXe5o7Sg3+G6ONbZ0pzn0f0Dt6Vgb4ADUNSD1AQEBAQEBAQEBAQEBAQWqinZILPaHDrF0GoqdGYna2OdH1c5vvQa2XRucc1zX95aVkYz8Hqh/Dv2OafmgtjDqm9uKd4avFBeZglUf0Bva5oQZUOjEp58jW9gLj8lgbOl0dgZrcDIf6jq8Ag20bA0WAAHQBYIKkBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEH/2Q==" group-title="Abertos",Globo Ribeirao Preto SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/483
+#EXTINF:-1 tvg-id="Globo RJ FHD" tvg-name="Globo RJ Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_rio_de_janeiro.jpg" group-title="Abertos",Globo RJ Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/484
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_rio_de_janeiro.jpg" group-title="Abertos",Globo RJ HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/485
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_rio_de_janeiro.jpg" group-title="Abertos",Globo RJ SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/486
+#EXTINF:-1 tvg-id="Globo Rpc Curitiba HD" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://s2.glbimg.com/i14Wp9gjlmvHccbbUBBh1go3rsA=/s.glbimg.com/og/rg/f/original/2016/11/22/rpc.jpg" group-title="Abertos",Globo RPC Curitiba HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/517
+#EXTINF:-1 tvg-id="Globo Rpc Curitiba" tvg-name="Globo RPC Paranavaí SD" tvg-logo="https://s2.glbimg.com/i14Wp9gjlmvHccbbUBBh1go3rsA=/s.glbimg.com/og/rg/f/original/2016/11/22/rpc.jpg" group-title="Abertos",Globo RPC Paranavaí SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20814
+#EXTINF:-1 tvg-id="Globo Rpc Curitiba" tvg-name="Globo RPC TV SD" tvg-logo="https://s2.glbimg.com/i14Wp9gjlmvHccbbUBBh1go3rsA=/s.glbimg.com/og/rg/f/original/2016/11/22/rpc.jpg" group-title="Abertos",Globo RPC TV SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/487
+#EXTINF:-1 tvg-id="Globo TV Sergipe" tvg-name="Globo Sergipe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cd/TV_Sergipe.jpg" group-title="Abertos",Globo Sergipe SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/488
+#EXTINF:-1 tvg-id="Globo Inter Tv Serra Mar" tvg-name="Globo Serra Mar SD" tvg-logo="https://acianf.com.br/images/empresas/perfil/inter-tv_5c93a7c43b8c7.crop.jpg" group-title="Abertos",Globo Serra Mar SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/530
+#EXTINF:-1 tvg-id="Globo SP FHD" tvg-name="Globo SP Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_sao_paulo.jpg" group-title="Abertos",Globo SP Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/489
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_sao_paulo.jpg" group-title="Abertos",Globo SP HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/490
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_sao_paulo.jpg" group-title="Abertos",Globo SP SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/491
+#EXTINF:-1 tvg-id="Globo Bahia" tvg-name="Globo TV Bahia SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="Abertos",Globo TV Bahia SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/492
+#EXTINF:-1 tvg-id="TV Liberal Belem" tvg-name="Globo TV Belem SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png" group-title="Abertos",Globo TV Belem SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/493
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="Globo TV Diario HD" tvg-logo="https://doriboucault.com.br/wp-content/uploads/2017/07/Entrevistas-01.png" group-title="Abertos",Globo TV Diario HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20816
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo TV Morena HD" tvg-logo="https://i.pinimg.com/originals/bb/38/ab/bb38ab0386b436993f3909b02a367b2a.jpg" group-title="Abertos",Globo TV Morena HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/523
+#EXTINF:-1 tvg-id="Globo Bauru" tvg-name="Globo TV Tem Bauru SD" tvg-logo="https://s2.glbimg.com/Leo7Nylu8TwSKxAI-g2UdaGOxV4=/s.glbimg.com/og/rg/f/original/2015/10/23/editado_jo_1.jpg" group-title="Abertos",Globo TV Tem Bauru SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/494
+#EXTINF:-1 tvg-id="Globo Sorocaba" tvg-name="Globo TV Tem Sorocaba SD" tvg-logo="https://s2.glbimg.com/Leo7Nylu8TwSKxAI-g2UdaGOxV4=/s.glbimg.com/og/rg/f/original/2015/10/23/editado_jo_1.jpg" group-title="Abertos",Globo TV Tem Sorocaba SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/495
+#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto" tvg-name="Globo TV Tem São José Do Rio Preto SD" tvg-logo="https://s2.glbimg.com/Leo7Nylu8TwSKxAI-g2UdaGOxV4=/s.glbimg.com/og/rg/f/original/2015/10/23/editado_jo_1.jpg" group-title="Abertos",Globo TV Tem São José Do Rio Preto SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/516
+#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_TV_Tribuna_%28Santos%29.png" group-title="Abertos",Globo TV Tribuna Santos SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/496
+#EXTINF:-1 tvg-id="Globo TV Vanguarda" tvg-name="Globo TV Vanguarda Sâo José Dos Campos SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvvanguarda.png" group-title="Abertos",Globo TV Vanguarda Sâo José Dos Campos SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/497
+#EXTINF:-1 tvg-id="Globo TV Verdes mares [Alter]" tvg-name="Globo TV Verdes Mares Fortaleza SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvverdesmares.png" group-title="Abertos",Globo TV Verdes Mares Fortaleza SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/498
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="Globosat Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/globosat_hd.jpg" group-title="Entretenimento",Globosat Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/670
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="Globosat HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/globosat_hd.jpg" group-title="Entretenimento",Globosat HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/646
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="Globosat SD" tvg-logo="https://set.org.br/wp-content/uploads/2018/07/globosat.png" group-title="Entretenimento",Globosat SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/647
+#EXTINF:-1 tvg-id="Gloob FHD" tvg-name="Gloob Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gloob_br.jpg" group-title="Infantil",Gloob Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/803
+#EXTINF:-1 tvg-id="Gloob HD" tvg-name="Gloob HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gloob_br.jpg" group-title="Infantil",Gloob HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/804
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gloob_br.jpg" group-title="Infantil",Gloob SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/805
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho SD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv-globinho-png-3.png" group-title="Infantil",Gloobinho SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20817
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gnt_brasil.jpg" group-title="Entretenimento",GNT HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/648
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gnt_brasil.jpg" group-title="Entretenimento",GNT SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/649
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentários",H2 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/607
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentários",H2 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/608
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentários",H2 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/609
 #EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo2_us.jpg" group-title="Filmes ( canais )",HBO 2 Full HD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanetsd/video.m3u8
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/730
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo2_us.jpg" group-title="Filmes ( canais )",HBO 2 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/731
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo2_us.jpg" group-title="Filmes ( canais )",HBO 2 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/732
+#EXTINF:-1 tvg-id="" tvg-name="HBO Extreme Full HD" tvg-logo="https://canaismax.com/img/canais/assistir-hbo-xtreme-ao-vivo.jpg" group-title="Filmes ( canais )",HBO Extreme Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/747
+#EXTINF:-1 tvg-id="" tvg-name="HBO Extreme HD" tvg-logo="https://canaismax.com/img/canais/assistir-hbo-xtreme-ao-vivo.jpg" group-title="Filmes ( canais )",HBO Extreme HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/748
+#EXTINF:-1 tvg-id="" tvg-name="HBO Extreme SD" tvg-logo="https://canaismax.com/img/canais/assistir-hbo-xtreme-ao-vivo.jpg" group-title="Filmes ( canais )",HBO Extreme SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/749
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Filmes ( canais )",HBO Family Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/785
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Filmes ( canais )",HBO Family HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/733
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family.jpg" group-title="Filmes ( canais )",HBO Family SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/734
+#EXTINF:-1 tvg-id="HBO FHD" tvg-name="HBO Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_asia_hd.jpg" group-title="Filmes ( canais )",HBO Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/735
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_asia_hd.jpg" group-title="Filmes ( canais )",HBO HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/736
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD" tvg-logo="https://canaismax.com/img/canais/e7a60609d36071d225eae42151773901.png" group-title="Filmes ( canais )",HBO Mundi HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/746
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi SD" tvg-logo="https://canaismax.com/img/canais/e7a60609d36071d225eae42151773901.png" group-title="Filmes ( canais )",HBO Mundi SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/750
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_plus_br.jpg" group-title="Filmes ( canais )",HBO Plus Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/737
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_plus_br.jpg" group-title="Filmes ( canais )",HBO Plus HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/738
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_plus_br.jpg" group-title="Filmes ( canais )",HBO Plus SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/739
+#EXTINF:-1 tvg-id="HBO Plus e" tvg-name="HBO Plus*e HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_plus_este.jpg" group-title="Filmes ( canais )",HBO Plus*e HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/740
+#EXTINF:-1 tvg-id="HBO Plus e" tvg-name="HBO Plus*e SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_plus_este.jpg" group-title="Filmes ( canais )",HBO Plus*e SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/741
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop HD" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg" group-title="Filmes ( canais )",HBO Pop HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/751
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop SD" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg" group-title="Filmes ( canais )",HBO Pop SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/752
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_br.jpg" group-title="Filmes ( canais )",HBO SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/742
+#EXTINF:-1 tvg-id="HBO Signature FHD H.265" tvg-name="HBO Signature Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_signature_br.jpg" group-title="Filmes ( canais )",HBO Signature Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/743
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_signature_br.jpg" group-title="Filmes ( canais )",HBO Signature HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/744
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_signature_br.jpg" group-title="Filmes ( canais )",HBO Signature SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/745
+#EXTINF:-1 tvg-id="" tvg-name="HGTV Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hgtv_us_hd.jpg" group-title="Entretenimento",HGTV Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/636
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="" group-title="Entretenimento",HGTV HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/637
+#EXTINF:-1 tvg-id="" tvg-name="HGTV SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hgtv_us_hd.jpg" group-title="Entretenimento",HGTV SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/638
+#EXTINF:-1 tvg-id="" tvg-name="History Channel Full HD" tvg-logo="" group-title="Documentários",History Channel Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/618
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" group-title="Documentários",History Channel HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/610
+#EXTINF:-1 tvg-id="" tvg-name="History Channel SD" tvg-logo="" group-title="Documentários",History Channel SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/611
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigação Discovery Full HD" tvg-logo="" group-title="Documentários",ID Investigação Discovery Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/619
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigação Discovery HD" tvg-logo="" group-title="Documentários",ID Investigação Discovery HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/620
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigação Discovery SD" tvg-logo="" group-title="Documentários",ID Investigação Discovery SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/621
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Full HD" tvg-logo="" group-title="Entretenimento",Lifetime Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/671
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="" group-title="Entretenimento",Lifetime HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/650
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime SD" tvg-logo="" group-title="Entretenimento",Lifetime SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/651
+#EXTINF:-1 tvg-id="" tvg-name="Megapix Full HD" tvg-logo="" group-title="Filmes ( canais )",Megapix Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/753
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="" group-title="Filmes ( canais )",Megapix HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/754
+#EXTINF:-1 tvg-id="" tvg-name="Megapix SD" tvg-logo="" group-title="Filmes ( canais )",Megapix SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/755
+#EXTINF:-1 tvg-id="" tvg-name="MTV Full HD" tvg-logo="" group-title="Musicas ( canais )",MTV Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/820
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="Musicas ( canais )",MTV HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/821
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live Full HD" tvg-logo="" group-title="Musicas ( canais )",MTV Live Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/835
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="" group-title="Musicas ( canais )",MTV Live HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/822
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="" group-title="Musicas ( canais )",MTV SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/823
+#EXTINF:-1 tvg-id="" tvg-name="Multishow Full HD" tvg-logo="" group-title="Musicas ( canais )",Multishow Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/824
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="" group-title="Musicas ( canais )",Multishow HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/825
+#EXTINF:-1 tvg-id="" tvg-name="Multishow SD" tvg-logo="" group-title="Musicas ( canais )",Multishow SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/826
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD" tvg-logo="" group-title="Musicas ( canais )",Music Box Brazil SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/827
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids Full HD" tvg-logo="" group-title="Infantil",Nat Geo Kids Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/806
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids HD" tvg-logo="" group-title="Infantil",Nat Geo Kids HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/807
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids SD" tvg-logo="" group-title="Infantil",Nat Geo Kids SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/808
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild Full HD" tvg-logo="" group-title="Documentários",Nat Geo Wild Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/612
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Documentários",Nat Geo Wild HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/613
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild SD" tvg-logo="" group-title="Documentários",Nat Geo Wild SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/614
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Full HD" tvg-logo="" group-title="Documentários",National Geographic Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/622
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Documentários",National Geographic HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/615
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="" group-title="Documentários",National Geographic SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/616
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Full HD" tvg-logo="" group-title="Infantil",Nick Jr Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/809
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="" group-title="Infantil",Nick Jr HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/810
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr SD" tvg-logo="" group-title="Infantil",Nick Jr SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/811
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Full HD" tvg-logo="" group-title="Infantil",Nickelodeon Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/819
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Infantil",Nickelodeon HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/812
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="" group-title="Infantil",Nickelodeon SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/813
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo SD" tvg-logo="" group-title="Diversos",Novo Tempo SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/577
+#EXTINF:-1 tvg-id="" tvg-name="Off HD" tvg-logo="" group-title="Entretenimento",Off HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/652
+#EXTINF:-1 tvg-id="" tvg-name="Off SD" tvg-logo="" group-title="Entretenimento",Off SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/653
+#EXTINF:-1 tvg-id="" tvg-name="Play TV SD" tvg-logo="" group-title="Musicas ( canais )",Play TV SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/828
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 SD" tvg-logo="" group-title="Esportes",Premiere 1 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/693
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Full HD" tvg-logo="" group-title="Esportes",Premiere 2 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/694
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="" group-title="Esportes",Premiere 2 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/695
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="" group-title="Esportes",Premiere 2 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/696
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 Full HD" tvg-logo="" group-title="Esportes",Premiere 3 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/697
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="" group-title="Esportes",Premiere 3 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/698
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="" group-title="Esportes",Premiere 3 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/699
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 Full HD" tvg-logo="" group-title="Esportes",Premiere 4 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/700
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="" group-title="Esportes",Premiere 4 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/701
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="" group-title="Esportes",Premiere 4 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/702
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 Full HD" tvg-logo="" group-title="Esportes",Premiere 5 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/703
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="" group-title="Esportes",Premiere 5 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/704
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="" group-title="Esportes",Premiere 5 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/705
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="" group-title="Esportes",Premiere 6 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/706
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="" group-title="Esportes",Premiere 6 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/707
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="" group-title="Esportes",Premiere 7 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/708
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="" group-title="Esportes",Premiere 8 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/709
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes Full HD" tvg-logo="" group-title="Esportes",Premiere Clubes Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/710
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="" group-title="Esportes",Premiere Clubes HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/711
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="" group-title="Esportes",Premiere Clubes SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/712
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil SD" tvg-logo="" group-title="Musicas ( canais )",Prime Box Brazil SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/836
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas HD" tvg-logo="" group-title="Abertos",Record Campinas HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/499
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas SD" tvg-logo="" group-title="Abertos",Record Campinas SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/500
+#EXTINF:-1 tvg-id="" tvg-name="Record DF SD" tvg-logo="" group-title="Abertos",Record DF SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/501
+#EXTINF:-1 tvg-id="" tvg-name="Record Esp. Santo SD" tvg-logo="" group-title="Abertos",Record Esp. Santo SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/502
+#EXTINF:-1 tvg-id="" tvg-name="Record MG SD" tvg-logo="" group-title="Abertos",Record MG SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/503
+#EXTINF:-1 tvg-id="" tvg-name="Record News Full HD" tvg-logo="" group-title="Noticias",Record News Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/843
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="" group-title="Noticias",Record News HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/844
+#EXTINF:-1 tvg-id="" tvg-name="Record News SD" tvg-logo="" group-title="Noticias",Record News SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/845
+#EXTINF:-1 tvg-id="" tvg-name="Record Nordeste HD" tvg-logo="" group-title="Abertos",Record Nordeste HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/504
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ SD" tvg-logo="" group-title="Abertos",Record RJ SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/505
+#EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="" group-title="Abertos",Record RS HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20813
+#EXTINF:-1 tvg-id="" tvg-name="Record SP Full HD" tvg-logo="" group-title="Abertos",Record SP Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/525
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="" group-title="Abertos",Record SP HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/506
+#EXTINF:-1 tvg-id="" tvg-name="Record SP SD" tvg-logo="" group-title="Abertos",Record SP SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/507
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Vitoria SD" tvg-logo="" group-title="Abertos",Record TV Vitoria SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/526
+#EXTINF:-1 tvg-id="" tvg-name="Rede Familia SD" tvg-logo="" group-title="Abertos",Rede Familia SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/508
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel SD" tvg-logo="" group-title="Diversos",Rede Gospel SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/586
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="" group-title="Abertos",Rede TV HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/509
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV SD" tvg-logo="" group-title="Abertos",Rede TV SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/510
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="" group-title="Diversos",Rede Vida HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/578
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida SD" tvg-logo="" group-title="Diversos",Rede Vida SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/579
+#EXTINF:-1 tvg-id="" tvg-name="Rit SD" tvg-logo="" group-title="Musicas ( canais )",Rit SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/833
+#EXTINF:-1 tvg-id="" tvg-name="SBT Goias HD" tvg-logo="" group-title="Abertos",SBT Goias HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/512
+#EXTINF:-1 tvg-id="" tvg-name="SBT Nordeste HD" tvg-logo="" group-title="Abertos",SBT Nordeste HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/514
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="" group-title="Abertos",SBT RJ HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/521
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP Full HD" tvg-logo="" group-title="Abertos",SBT SP Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/511
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="" group-title="Abertos",SBT SP HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/513
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="" group-title="Abertos",SBT SP SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/515
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Cidade Verde Piaui SD" tvg-logo="" group-title="Abertos",SBT TV Cidade Verde Piaui SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/518
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Jornal Pernambuco SD" tvg-logo="" group-title="Abertos",SBT TV Jornal Pernambuco SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/519
+#EXTINF:-1 tvg-id="" tvg-name="Sony Full HD" tvg-logo="" group-title="Musicas ( canais )",Sony Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/834
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="" group-title="Musicas ( canais )",Sony HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/829
+#EXTINF:-1 tvg-id="" tvg-name="Sony SD" tvg-logo="" group-title="Musicas ( canais )",Sony SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/830
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 Full HD" tvg-logo="" group-title="Esportes",SporTV 2 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/713
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="" group-title="Esportes",SporTV 2 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/714
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 SD" tvg-logo="" group-title="Esportes",SporTV 2 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/715
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 Full HD" tvg-logo="" group-title="Esportes",SporTV 3 Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/716
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="" group-title="Esportes",SporTV 3 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/717
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 SD" tvg-logo="" group-title="Esportes",SporTV 3 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/718
+#EXTINF:-1 tvg-id="" tvg-name="SporTV Full HD" tvg-logo="" group-title="Esportes",SporTV Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/719
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="" group-title="Esportes",SporTV HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/720
+#EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="" group-title="Esportes",SporTV SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/721
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="" group-title="Diversos",TBS SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/580
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action Full HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Action Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/756
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Action HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/757
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo="" group-title="Filmes ( canais )",Telecine Action SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/758
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult Full HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Cult Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/759
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Cult HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/760
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="" group-title="Filmes ( canais )",Telecine Cult SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/761
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun Full HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Fun Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/762
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Fun HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/763
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo="" group-title="Filmes ( canais )",Telecine Fun SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/764
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca Full HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Pipoca Full HD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocahd/video.m3u8
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/765
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Pipoca HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/766
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo="" group-title="Filmes ( canais )",Telecine Pipoca SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/767
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium Full HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Premium Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/768
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Premium HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/769
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo="" group-title="Filmes ( canais )",Telecine Premium SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/770
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch Full HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Touch Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/771
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="" group-title="Filmes ( canais )",Telecine Touch HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/772
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo="" group-title="Filmes ( canais )",Telecine Touch SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/773
+#EXTINF:-1 tvg-id="" tvg-name="TNT Full HD" tvg-logo="" group-title="Filmes ( canais )",TNT Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/774
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Filmes ( canais )",TNT HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/775
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="" group-title="Filmes ( canais )",TNT SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/776
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries Full HD" tvg-logo="" group-title="Filmes ( canais )",TNT Séries Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/777
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries HD" tvg-logo="" group-title="Filmes ( canais )",TNT Séries HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/778
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries SD" tvg-logo="" group-title="Filmes ( canais )",TNT Séries SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/779
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="" group-title="Infantil",Tooncast HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/814
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="" group-title="Infantil",Tooncast SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/815
+#EXTINF:-1 tvg-id="" tvg-name="TruTV SD" tvg-logo="" group-title="Entretenimento",TruTV SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20811
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida SD" tvg-logo="" group-title="Diversos",TV Aparecida SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/581
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SD" tvg-logo="" group-title="Diversos",TV Gazeta SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/582
+#EXTINF:-1 tvg-id="" tvg-name="TV Playkids" tvg-logo="" group-title="Infantil",TV Playkids
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/818
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum SD" tvg-logo="" group-title="Infantil",TV Ra Tim Bum SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/817
+#EXTINF:-1 tvg-id="" tvg-name="TV Século 21" tvg-logo="" group-title="Diversos",TV Século 21
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/587
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="Musicas ( canais )",VH1 HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/831
+#EXTINF:-1 tvg-id="" tvg-name="VH1 SD" tvg-logo="" group-title="Musicas ( canais )",VH1 SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/832
+#EXTINF:-1 tvg-id="" tvg-name="Viva Full HD" tvg-logo="" group-title="Diversos",Viva Full HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/583
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="" group-title="Diversos",Viva HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/584
+#EXTINF:-1 tvg-id="" tvg-name="Viva SD" tvg-logo="" group-title="Diversos",Viva SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/585
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="" group-title="Entretenimento",Woohoo HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/654
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo SD" tvg-logo="" group-title="Entretenimento",Woohoo SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/655
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo HD" tvg-logo="" group-title="Entretenimento",Zoomoo HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/656
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo SD" tvg-logo="" group-title="Entretenimento",Zoomoo SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/657
+#EXTINF:-1 tvg-id="" tvg-name="Copa Libertadores (Facebook)" tvg-logo="" group-title="Esportes",Copa Libertadores (Facebook)
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20830
+#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 1" tvg-logo="" group-title="Esportes",Copa Nordeste 1
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20831
+#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 1" tvg-logo="" group-title="Esportes",Copa Catarinense 1
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20832
+#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 2" tvg-logo="" group-title="Esportes",Copa Catarinense 2
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20833
+#EXTINF:-1 tvg-id="EI Plus 2 HD" tvg-name="Ei Plus 2" tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png" group-title="Esportes",Ei Plus 2
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20834
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias",CNN Brasil SD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20835
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias",CNN Brasil HD
+http://app.iptvativo.net:25461/mundodacervejaoficial/eldioz140388/20836
