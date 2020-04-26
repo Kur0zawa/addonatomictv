@@ -41,7 +41,7 @@
 
 <item>
 <title>[B] EPISODIO 4 [/B] </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1l1FmAIoAghfzcqcRaeOmppbgMonZUxtl?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1l1FmAIoAghfzcqcRaeOmppbgMonZUxtl/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg</thumbnail>
 <fanart></fanart>
 <info>
@@ -101,3 +101,6 @@
 
 [B][COLOR white] NOTA IMDB:[/COLOR][COLOR yellow] ★★★★☆ 7.9/10[/B][/COLOR]</info>
 </item>
+
+
+
