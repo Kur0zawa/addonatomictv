@@ -1,3 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ae_br.jpg" group-title="Entretenimento",A&E Full HD
-https://edge-aws.aovivo.club/hls/s:78.46.240.155/globosp_cfe21c68_2135dbb0ad82566fa3b18fe8ada3abc9adcba12a/playlist.m3u8
+#EXTINF:-1,Record
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/record_3554dce5_fadf489628c813c7b409594d4b3ffc8fa48dfd38/playlist.m3u8
+#EXTINF:-1,Rede Massa
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/sbtsp_2a5ac580_2db4cb32f4f5854e78dcb87b1465c840a015b91e/playlist.m3u8
+#EXTINF:-1,SBT PI
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/sbtpi_733b57ae_deedaf9f7fa090988f7c00330415bd7cd24bd464/1080p/chunklist.m3u8
+#EXTINF:-1,Redetv
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/redebrasil_c2548064_493d7a3cc728e9d8b35ab05dfb9e802aee39d80b/playlist.m3u8
+#EXTINF:-1,Globo
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/globorj_bc15c774_f154dbc33ee92cb14745d178d44c29e3264aae91/playlist.m3u8
+#EXTINF:-1,Band
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/band_49e3d046_94a0ecd02cd48990ecbc485f93eae2919b764afe/playlist.m3u8
+#EXTINF:-1,BigBrother
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/bbb20_c1dfd96e_99a1c86ef463ef7db7784abface50933d0c7afae/playlist.m3u8
+#EXTINF:-1,Globo
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_e41a2364467eaf7d38f99ad04b4c5a7d87d8ac59/playlist.m3u8
+#EXTINF:-1,Sbt
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sbtsp_2a5ac580_d13759ae676455432d498b97a5358a78629e7fb2/playlist.m3u8
+#EXTINF:-1,Globo
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_d5104b6911179dc82d45b20ddc1e4c18197e88e8/playlist.m3u8
+#EXTINF:-1,A&E
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_17818da2e530c5f54658b80f4b89949a6ee2703c/playlist.m3u8
+#EXTINF:-1,Art
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/arte1_cf94db48_2d3374f027a98a5394678134ab70f8a66fa24d32/playlist.m3u8
+#EXTINF:-1,Hbo
+http://edge-aws.aovivo.club/hls/s:88.198.163.51/hboplus480p_17820ac1_c4c22f70fe22c114768a562883c2584e3dedf3e4/playlist.m3u8
+#EXTINF:-1,Record
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/record_3554dce5_33a8518e332aca50842167a26f001ec36b6556e5/playlist.m3u8
+#EXTINF:-1,cartoon
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_6898f137a360edb73e5024fd77cc31b5fdff1315/playlist.m3u8
+#EXTINF:-1,NICKLOD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/nickelodeon_bc33ea4e_b5ce4312e314798a8a473de122de644b80bf6121/playlist.m3u8
+#EXTINF:-1,TONCAST
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/tooncast_8effee40_9154f9ea6363fee328d8c3c406fb0b713704485b/playlist.m3u8
+#EXTINF:-1,FX
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fx_667be543_43595af8d136ff5dbc729f4a7d456b8fb3d23e4d/playlist.m3u8
+#EXTINF:-1,SBT
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/sbtsp_2a5ac580_8b8b9985721adceadd3d8dd12dab7ac37eba80f6/playlist.m3u8
