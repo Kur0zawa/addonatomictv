@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ae_br.jpg" group-title="Entretenimento",A&E Full HD
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/globosp_cfe21c68_2135dbb0ad82566fa3b18fe8ada3abc9adcba12a/playlist.m3u8
