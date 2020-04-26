@@ -1,3 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_br.jpg" group-title="Entretenimento",Animal Planet Full HD
-https://live.multicanais.com/mylive/foxpremiumsd/video.m3u8?md5=8zbBDnmYNmJTPK6axkWwTw&expires=1587937640
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/274cc93fe150f046c1d083edaac1a60f.jpg" group-title="infantil",kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/64621ab391135116d01232f74cec38dc.png" group-title="desenho",picapau
+https://r2---sn-puncg5npa-nnvs.googlevideo.com/videoplayback?expire=1578030407&ei=54AOXqzWDI2lwQS7upTwAg&ip=187.44.225.54&id=o-AHm08GL-4moNFmPyDkpM0JAEkyckkLaynRL6z6eFjJz5&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-puncg5npa-nnvs%2Csn-bg0ezne7&ms=au%2Crdu&mv=m&mvi=1&pl=20&initcwndbps=295000&mime=video%2Fmp4&ratebypass=yes&dur=3833.173&lmt=1577934069638776&mt=1578008688&fvip=2&fexp=23842630%2C23860862&c=WEB_EMBEDDED_PLAYER&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRAIgL1URZrAwOOiOfMbsQcPTEzztSS3VNI2v-rJJ4jzOw00CIFmSFq_n2q5KUGq11rK7C88OK4SLP2vydFK0U6JVFPMg&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAPNzBoQijDR3KWIaPzaYEZiGfO9veVWpE3Jzmc2FP4m8AiEAgxqTdjTs3aiUoxK3HpbEJBmjmmMzrxAFRiRKhTsdF38%3D
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title="tv",sbt
+https://r3---sn-puncg5npa-nnvs.googlevideo.com/videoplayback?expire=1578034236&ei=3I8OXs-CF4XkwASNyKCYDw&ip=187.44.225.54&id=9z_8k1Ir-6U.1&itag=136&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mm=44%2C29&mn=sn-puncg5npa-nnvs%2Csn-bg0ezn7l&ms=lva%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=20&gcr=br&initcwndbps=312500&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1578012564&fvip=3&keepalive=yes&fexp=23842630%2C23860862&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRAIgdbdpSnC_7scITGtkXcE4coymXmrHWnRoifYLDKKrnSECIFEad8eCFZ07AG2RizcFMC7EHtuE3MuHQXcGfDarmf4Q&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAJGm02NS90niRbQUWKDr7RnkMOxZt8Ron-p11lKfYN-aAiBRUV-I_DhfJZU4bck05wgbk5QTDjVXbRY3KSOxn_udFg%3D%3D
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="canal",globo24h
+https://live.multicanais.com/live/globosp/video.m3u8?md5=YWMBSECic95NJ3mRi-Q3lA&expires=1578019368
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/logo-player.png" group-title="filmes",universal
+https://live.multicanais.com/live/universalchannelsd/video.m3u8?md5=SIc7BV2UPF2QMTZD5ds1cw&expires=1578020063
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/logo-player.png" group-title="canal",mult-show
+https://live.multicanais.com/mylive/multishowsd/video.m3u8?md5=gI9XePJ1KoBtJ6eVPOLvOA&expires=1578021075
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/logo-player.png" group-title="filmes",warnerfilmes
+https://live.multicanais.com/live/warnerbrosssd/video.m3u8?md5=GICz4Cadr3GzPsxdy1nrPQ&expires=1578021277
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/logo-player.png" group-title="filmes",telecine
+https://live.multicanais.com/mylive/telecinepremiumsd/video.m3u8?md5=hAn9ykBcP7i5bNgqb5N1sw&expires=1578022191
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/logo-player.png" group-title="filmes",maxpremium
+https://live.multicanais.com/live/maxprimesd/video.m3u8?md5=rpoTgbWe2pPAZKdTwTBDcg&expires=1578022606
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/logo-player.png" group-title="esportes",esporteinterativo
+https://live.multicanais.com/live/tntsd/video.m3u8?md5=VuE2L9_fOMM2ddS6TKbbWQ&expires=1578023367
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/logo-player.png" group-title="filmes",thebigbangtheory
+https://live.multicanais.com/live/bigbang/video.m3u8?md5=8Lgv61eUyaW2FG6vexKreg&expires=1578024187
