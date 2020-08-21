@@ -1,17 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD
-http://srvx.io:80/live/2Pt3k/X1kRb/1937.m3u8
+http://srvx.io:80/live/vBEbx/dZcga/1937.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 4 FHD [Alter]
-http://srvx.io:80/live/2Pt3k/X1kRb/45190.m3u8
+http://srvx.io:80/live/vBEbx/dZcga/45190.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD [H265]
-http://srvx.io:80/live/2Pt3k/X1kRb/25373.m3u8
+http://srvx.io:80/live/vBEbx/dZcga/25373.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 4 FHD [H265] [Alter]
-http://srvx.io:80/live/2Pt3k/X1kRb/29445.m3u8
+http://srvx.io:80/live/vBEbx/dZcga/29445.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 HD
-http://srvx.io:80/live/2Pt3k/X1kRb/1758.m3u8
+http://srvx.io:80/live/vBEbx/dZcga/1758.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 4 HD [Alter]
-http://srvx.io:80/live/2Pt3k/X1kRb/2340.m3u8
+http://srvx.io:80/live/vBEbx/dZcga/2340.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 SD
-http://srvx.io:80/live/2Pt3k/X1kRb/1759.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 4 SD [Alter]
-http://srvx.io:80/live/2Pt3k/X1kRb/2163.m3u8
+http://srvx.io:80/live/vBEbx/dZcga/1759.m3u8
