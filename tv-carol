@@ -1,1403 +1,1487 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020
-http://srvx.io:80/live/AQd2b/mhqjH/72599.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72599.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gaF8wi7" group-title="Canais | Variedades",A Fazenda 2020 SD
+http://srvx.io:80/live/8afBq/Uv6d4/72993.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71760.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71760.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71761.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71761.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD
-http://srvx.io:80/live/AQd2b/mhqjH/71762.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71762.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD
-http://srvx.io:80/live/AQd2b/mhqjH/71763.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71763.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71764.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71764.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71765.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71765.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais HD
-http://srvx.io:80/live/AQd2b/mhqjH/71766.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71766.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais SD
-http://srvx.io:80/live/AQd2b/mhqjH/71767.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71767.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71768.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71768.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71769.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71769.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC HD
-http://srvx.io:80/live/AQd2b/mhqjH/71770.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71770.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
-http://srvx.io:80/live/AQd2b/mhqjH/71771.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71771.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | 4K [FHDR]",Animal Planet 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/71774.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71774.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71772.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71772.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71773.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71773.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet HD
-http://srvx.io:80/live/AQd2b/mhqjH/71775.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71775.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet SD
-http://srvx.io:80/live/AQd2b/mhqjH/71776.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71776.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71777.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71777.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71778.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71778.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 HD
-http://srvx.io:80/live/AQd2b/mhqjH/71779.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71779.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 SD
-http://srvx.io:80/live/AQd2b/mhqjH/71780.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71780.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71781.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71781.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71782.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71782.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN HD
-http://srvx.io:80/live/AQd2b/mhqjH/71783.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71783.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN SD
-http://srvx.io:80/live/AQd2b/mhqjH/71784.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71784.m3u8
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band BA SD
-http://srvx.io:80/live/AQd2b/mhqjH/72620.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72620.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71785.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71785.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71786.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71786.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa HD
-http://srvx.io:80/live/AQd2b/mhqjH/71787.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71787.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa SD
-http://srvx.io:80/live/AQd2b/mhqjH/71788.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71788.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71789.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71789.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71790.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71790.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News HD
-http://srvx.io:80/live/AQd2b/mhqjH/71791.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71791.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Notícias",Band News SD
-http://srvx.io:80/live/AQd2b/mhqjH/71792.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71792.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Prudente FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71793.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71793.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Prudente HD
-http://srvx.io:80/live/AQd2b/mhqjH/71794.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71794.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Prudente SD
-http://srvx.io:80/live/AQd2b/mhqjH/71795.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71795.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | 4K [FHDR]",Band RJ 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/71798.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71798.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71796.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71796.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71797.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71797.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ HD
-http://srvx.io:80/live/AQd2b/mhqjH/71799.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71799.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ SD
-http://srvx.io:80/live/AQd2b/mhqjH/71800.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71800.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band SP HD
-http://srvx.io:80/live/AQd2b/mhqjH/72597.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72597.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71801.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71801.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71802.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71802.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports HD
-http://srvx.io:80/live/AQd2b/mhqjH/71803.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71803.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Esportes",Band Sports SD
-http://srvx.io:80/live/AQd2b/mhqjH/71804.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71804.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",BBC SD
-http://srvx.io:80/live/AQd2b/mhqjH/71805.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71805.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71806.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71806.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71807.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71807.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS HD
-http://srvx.io:80/live/AQd2b/mhqjH/71808.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71808.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS SD
-http://srvx.io:80/live/AQd2b/mhqjH/71809.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71809.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Bloomberg SD
-http://srvx.io:80/live/AQd2b/mhqjH/71810.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71810.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/boavontade.png" group-title="Canais | Religiosos",Boa Vontade TV SD
-http://srvx.io:80/live/AQd2b/mhqjH/71811.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71811.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71812.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71812.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71813.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71813.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang HD
-http://srvx.io:80/live/AQd2b/mhqjH/71814.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71814.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang SD
-http://srvx.io:80/live/AQd2b/mhqjH/71815.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71815.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71816.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71816.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71817.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71817.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil HD
-http://srvx.io:80/live/AQd2b/mhqjH/71818.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71818.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil SD
-http://srvx.io:80/live/AQd2b/mhqjH/71819.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71819.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71820.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71820.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
-http://srvx.io:80/live/AQd2b/mhqjH/71821.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71821.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/bK3" group-title="Canais | Abertos",Canal do Boi SD
-http://srvx.io:80/live/AQd2b/mhqjH/71822.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71822.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canalrural.png" group-title="Canais | Abertos",Canal Rural SD
-http://srvx.io:80/live/AQd2b/mhqjH/71823.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71823.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71824.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71824.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71825.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71825.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony HD
-http://srvx.io:80/live/AQd2b/mhqjH/71826.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71826.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony SD
-http://srvx.io:80/live/AQd2b/mhqjH/71827.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71827.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | 4K [FHDR]",Cartoon Network 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/71830.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71830.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71828.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71828.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71829.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71829.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network HD
-http://srvx.io:80/live/AQd2b/mhqjH/71831.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71831.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network SD
-http://srvx.io:80/live/AQd2b/mhqjH/71832.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71832.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 1 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72994.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 2 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72995.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 3 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72996.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 4 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72997.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 5 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72998.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 6 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72999.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 7 HD
+http://srvx.io:80/live/8afBq/Uv6d4/73000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 8 HD
+http://srvx.io:80/live/8afBq/Uv6d4/73001.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 9 HD
+http://srvx.io:80/live/8afBq/Uv6d4/73002.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 10 HD
+http://srvx.io:80/live/8afBq/Uv6d4/73003.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71833.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71833.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71834.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71834.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax HD
-http://srvx.io:80/live/AQd2b/mhqjH/71835.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71835.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax SD
-http://srvx.io:80/live/AQd2b/mhqjH/71836.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71836.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71837.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71837.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71838.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71838.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil HD
-http://srvx.io:80/live/AQd2b/mhqjH/71839.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71839.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil SD
-http://srvx.io:80/live/AQd2b/mhqjH/71840.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71840.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN International SD
-http://srvx.io:80/live/AQd2b/mhqjH/71841.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71841.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | 4K [FHDR]",Combate 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/71844.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71844.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71842.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71842.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71843.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71843.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate HD
-http://srvx.io:80/live/AQd2b/mhqjH/71845.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71845.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate SD
-http://srvx.io:80/live/AQd2b/mhqjH/71846.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71846.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71847.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71847.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71848.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71848.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central HD
-http://srvx.io:80/live/AQd2b/mhqjH/71849.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71849.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central SD
-http://srvx.io:80/live/AQd2b/mhqjH/71850.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71850.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD
+http://srvx.io:80/live/8afBq/Uv6d4/72977.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD [H265]
+http://srvx.io:80/live/8afBq/Uv6d4/72978.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72979.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 SD
+http://srvx.io:80/live/8afBq/Uv6d4/72980.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD
+http://srvx.io:80/live/8afBq/Uv6d4/72981.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD [H265]
+http://srvx.io:80/live/8afBq/Uv6d4/72982.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72983.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 SD
+http://srvx.io:80/live/8afBq/Uv6d4/72984.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD
+http://srvx.io:80/live/8afBq/Uv6d4/72985.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD [H265]
+http://srvx.io:80/live/8afBq/Uv6d4/72986.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72987.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 SD
+http://srvx.io:80/live/8afBq/Uv6d4/72988.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD
+http://srvx.io:80/live/8afBq/Uv6d4/72989.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD [H265]
+http://srvx.io:80/live/8afBq/Uv6d4/72990.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72991.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 SD
+http://srvx.io:80/live/8afBq/Uv6d4/72992.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71851.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71851.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71852.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71852.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura HD
-http://srvx.io:80/live/AQd2b/mhqjH/71853.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71853.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Abertos",Cultura SD
-http://srvx.io:80/live/AQd2b/mhqjH/71854.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71854.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71855.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71855.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71856.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71856.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta HD
-http://srvx.io:80/live/AQd2b/mhqjH/71857.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71857.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta SD
-http://srvx.io:80/live/AQd2b/mhqjH/71858.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71858.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71859.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71859.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 HD
-http://srvx.io:80/live/AQd2b/mhqjH/71860.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71860.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 SD
-http://srvx.io:80/live/AQd2b/mhqjH/71861.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | PPV",DAZN 2 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72630.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71861.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 2 HD
+http://srvx.io:80/live/8afBq/Uv6d4/72630.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/71864.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71864.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71862.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71862.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71863.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71863.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel HD
-http://srvx.io:80/live/AQd2b/mhqjH/71865.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71865.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel SD
-http://srvx.io:80/live/AQd2b/mhqjH/71866.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71866.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71867.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71867.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71868.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71868.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H HD
-http://srvx.io:80/live/AQd2b/mhqjH/71869.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71869.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H SD
-http://srvx.io:80/live/AQd2b/mhqjH/71870.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71870.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71871.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71871.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71872.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71872.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids HD
-http://srvx.io:80/live/AQd2b/mhqjH/71873.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71873.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids SD
-http://srvx.io:80/live/AQd2b/mhqjH/71874.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71874.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71875.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71875.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71876.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71876.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science HD
-http://srvx.io:80/live/AQd2b/mhqjH/71877.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71877.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science SD
-http://srvx.io:80/live/AQd2b/mhqjH/71878.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71878.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71879.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71879.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71880.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71880.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater HD
-http://srvx.io:80/live/AQd2b/mhqjH/71881.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71881.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater SD
-http://srvx.io:80/live/AQd2b/mhqjH/71882.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71882.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71883.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71883.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71884.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71884.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo HD
-http://srvx.io:80/live/AQd2b/mhqjH/71885.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71885.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo SD
-http://srvx.io:80/live/AQd2b/mhqjH/71886.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71886.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71887.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71887.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71888.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71888.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World HD
-http://srvx.io:80/live/AQd2b/mhqjH/71889.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71889.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World SD
-http://srvx.io:80/live/AQd2b/mhqjH/71890.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71890.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71891.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71891.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71892.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71892.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel HD
-http://srvx.io:80/live/AQd2b/mhqjH/71893.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71893.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel SD
-http://srvx.io:80/live/AQd2b/mhqjH/71894.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71894.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71895.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71895.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71896.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71896.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior HD
-http://srvx.io:80/live/AQd2b/mhqjH/71897.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71897.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior SD
-http://srvx.io:80/live/AQd2b/mhqjH/71898.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71898.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",Disney XD SD
-http://srvx.io:80/live/AQd2b/mhqjH/71899.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71899.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71900.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71900.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71901.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71901.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! HD
-http://srvx.io:80/live/AQd2b/mhqjH/71902.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71902.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! SD
-http://srvx.io:80/live/AQd2b/mhqjH/71903.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 1 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71904.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71903.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 1 HD
-http://srvx.io:80/live/AQd2b/mhqjH/71905.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 1 SD
-http://srvx.io:80/live/AQd2b/mhqjH/71906.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71904.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 2 HD
+http://srvx.io:80/live/8afBq/Uv6d4/71905.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 3 HD
+http://srvx.io:80/live/8afBq/Uv6d4/71906.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 1 FHD
+http://srvx.io:80/live/8afBq/Uv6d4/73254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 2 FHD
+http://srvx.io:80/live/8afBq/Uv6d4/73255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 3 FHD
+http://srvx.io:80/live/8afBq/Uv6d4/73256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 4 FHD
+http://srvx.io:80/live/8afBq/Uv6d4/73257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 5 FHD
+http://srvx.io:80/live/8afBq/Uv6d4/73258.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 6 FHD
+http://srvx.io:80/live/8afBq/Uv6d4/73259.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71907.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71907.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71908.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71908.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 HD
-http://srvx.io:80/live/AQd2b/mhqjH/71909.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71909.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 SD
-http://srvx.io:80/live/AQd2b/mhqjH/71910.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71910.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | 4K [FHDR]",ESPN 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/71921.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71921.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71911.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71911.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71912.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71912.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil HD
-http://srvx.io:80/live/AQd2b/mhqjH/71913.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71913.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil SD
-http://srvx.io:80/live/AQd2b/mhqjH/71914.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71914.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Extra FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71915.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71915.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71916.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71916.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra HD
-http://srvx.io:80/live/AQd2b/mhqjH/71917.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71917.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra SD
-http://srvx.io:80/live/AQd2b/mhqjH/71918.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71918.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71919.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71919.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71920.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71920.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN HD
-http://srvx.io:80/live/AQd2b/mhqjH/71922.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71922.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN SD
-http://srvx.io:80/live/AQd2b/mhqjH/71923.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71923.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 
+http://srvx.io:80/live/8afBq/Uv6d4/73005.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71924.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71924.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71925.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71925.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV HD
-http://srvx.io:80/live/AQd2b/mhqjH/71926.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71926.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV SD
-http://srvx.io:80/live/AQd2b/mhqjH/71927.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71927.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71928.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71928.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71929.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71929.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV HD
-http://srvx.io:80/live/AQd2b/mhqjH/71930.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71930.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV SD
-http://srvx.io:80/live/AQd2b/mhqjH/71931.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71931.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71932.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71932.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71933.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71933.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network HD
-http://srvx.io:80/live/AQd2b/mhqjH/71934.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71934.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network SD
-http://srvx.io:80/live/AQd2b/mhqjH/71935.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71935.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",Fox FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71936.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71936.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",Fox FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71937.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71937.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",Fox HD
-http://srvx.io:80/live/AQd2b/mhqjH/71938.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71938.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71939.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71939.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71940.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71940.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life HD
-http://srvx.io:80/live/AQd2b/mhqjH/71941.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71941.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life SD
-http://srvx.io:80/live/AQd2b/mhqjH/71942.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71942.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71943.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71943.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71944.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71944.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
-http://srvx.io:80/live/AQd2b/mhqjH/71945.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71945.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 SD
-http://srvx.io:80/live/AQd2b/mhqjH/71946.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71946.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries",Fox Premium 2 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71947.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71947.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries",Fox Premium 2 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71948.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71948.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries",Fox Premium 2 HD
-http://srvx.io:80/live/AQd2b/mhqjH/71949.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71949.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries",Fox Premium 2 SD
-http://srvx.io:80/live/AQd2b/mhqjH/71950.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71950.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",Fox SD
-http://srvx.io:80/live/AQd2b/mhqjH/71951.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71951.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | 4K [FHDR]",Fox Sports 2 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/71954.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71954.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71952.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71952.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71953.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71953.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 HD
-http://srvx.io:80/live/AQd2b/mhqjH/71955.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71955.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 SD
-http://srvx.io:80/live/AQd2b/mhqjH/71956.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71956.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | 4K [FHDR]",Fox Sports 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/71959.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71959.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71957.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71957.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71958.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71958.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports HD
-http://srvx.io:80/live/AQd2b/mhqjH/71960.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71960.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports SD
-http://srvx.io:80/live/AQd2b/mhqjH/71961.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71961.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71962.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71962.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71963.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71963.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura HD
-http://srvx.io:80/live/AQd2b/mhqjH/71964.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71964.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura SD
-http://srvx.io:80/live/AQd2b/mhqjH/71965.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71965.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71966.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71966.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71967.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71967.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX HD
-http://srvx.io:80/live/AQd2b/mhqjH/71968.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71968.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX SD
-http://srvx.io:80/live/AQd2b/mhqjH/71969.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71969.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71973.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71973.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia HD
-http://srvx.io:80/live/AQd2b/mhqjH/71974.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71974.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia SD
-http://srvx.io:80/live/AQd2b/mhqjH/71975.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71975.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71976.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71976.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas HD
-http://srvx.io:80/live/AQd2b/mhqjH/71977.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71977.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas SD
-http://srvx.io:80/live/AQd2b/mhqjH/71978.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Globo",Globo EPTV Ribeirao Preto FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72590.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71978.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto FHD [H265]
+http://srvx.io:80/live/8afBq/Uv6d4/72590.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto HD
-http://srvx.io:80/live/AQd2b/mhqjH/72589.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
-http://srvx.io:80/live/AQd2b/mhqjH/72591.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo EPTV Sao Carlos SD
-http://srvx.io:80/live/AQd2b/mhqjH/72592.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72589.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
+http://srvx.io:80/live/8afBq/Uv6d4/72591.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos SD
+http://srvx.io:80/live/8afBq/Uv6d4/72592.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71979.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71979.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas HD
-http://srvx.io:80/live/AQd2b/mhqjH/71980.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71980.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas SD
-http://srvx.io:80/live/AQd2b/mhqjH/71981.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71981.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71982.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71982.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral HD
-http://srvx.io:80/live/AQd2b/mhqjH/71983.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71983.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral SD
-http://srvx.io:80/live/AQd2b/mhqjH/71984.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71984.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71985.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71985.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi HD
-http://srvx.io:80/live/AQd2b/mhqjH/71986.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71986.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi SD
-http://srvx.io:80/live/AQd2b/mhqjH/71987.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71987.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71988.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71988.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales HD
-http://srvx.io:80/live/AQd2b/mhqjH/71989.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71989.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales SD
-http://srvx.io:80/live/AQd2b/mhqjH/71990.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71990.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71991.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71991.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
-http://srvx.io:80/live/AQd2b/mhqjH/71992.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71992.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas SD
-http://srvx.io:80/live/AQd2b/mhqjH/71993.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71993.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71994.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71994.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar HD
-http://srvx.io:80/live/AQd2b/mhqjH/71995.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71995.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar SD
-http://srvx.io:80/live/AQd2b/mhqjH/71996.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo",Globo Minas FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71970.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo",Globo Minas HD
-http://srvx.io:80/live/AQd2b/mhqjH/71971.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71996.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas FHD
+http://srvx.io:80/live/8afBq/Uv6d4/71970.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas HD
+http://srvx.io:80/live/8afBq/Uv6d4/71971.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas SD
-http://srvx.io:80/live/AQd2b/mhqjH/71972.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71972.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD
-http://srvx.io:80/live/AQd2b/mhqjH/71997.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71997.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/71998.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71998.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News HD
-http://srvx.io:80/live/AQd2b/mhqjH/71999.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/71999.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Notícias",Globo News SD
-http://srvx.io:80/live/AQd2b/mhqjH/72000.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72000.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72001.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72001.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste HD
-http://srvx.io:80/live/AQd2b/mhqjH/72002.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72002.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste SD
-http://srvx.io:80/live/AQd2b/mhqjH/72003.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72003.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72004.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72004.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau HD
-http://srvx.io:80/live/AQd2b/mhqjH/72005.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72005.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau SD
-http://srvx.io:80/live/AQd2b/mhqjH/72006.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72006.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72007.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72007.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco HD
-http://srvx.io:80/live/AQd2b/mhqjH/72008.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72008.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco SD
-http://srvx.io:80/live/AQd2b/mhqjH/72009.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72009.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72010.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72010.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis HD
-http://srvx.io:80/live/AQd2b/mhqjH/72011.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72011.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis SD
-http://srvx.io:80/live/AQd2b/mhqjH/72012.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72012.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72013.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72013.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul HD
-http://srvx.io:80/live/AQd2b/mhqjH/72014.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72014.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul SD
-http://srvx.io:80/live/AQd2b/mhqjH/72015.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72015.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72617.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72617.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas HD
-http://srvx.io:80/live/AQd2b/mhqjH/72618.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72618.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72016.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72016.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre HD
-http://srvx.io:80/live/AQd2b/mhqjH/72017.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72017.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
-http://srvx.io:80/live/AQd2b/mhqjH/72018.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo",Globo Rede Amazonica Manaus FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72019.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo",Globo Rede Amazonica Manaus HD
-http://srvx.io:80/live/AQd2b/mhqjH/72020.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72018.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus FHD
+http://srvx.io:80/live/8afBq/Uv6d4/72019.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus HD
+http://srvx.io:80/live/8afBq/Uv6d4/72020.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus SD
-http://srvx.io:80/live/AQd2b/mhqjH/72021.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72021.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72022.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72022.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia HD
-http://srvx.io:80/live/AQd2b/mhqjH/72023.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72023.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia SD
-http://srvx.io:80/live/AQd2b/mhqjH/72024.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72024.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72025.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72025.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ HD
-http://srvx.io:80/live/AQd2b/mhqjH/72026.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72026.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ SD
-http://srvx.io:80/live/AQd2b/mhqjH/72027.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72027.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Curitiba FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72625.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72625.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Curitiba HD
-http://srvx.io:80/live/AQd2b/mhqjH/72626.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo RPC Curitiba SD
-http://srvx.io:80/live/AQd2b/mhqjH/72627.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72626.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Curitiba SD
+http://srvx.io:80/live/8afBq/Uv6d4/72627.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72028.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72028.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai HD
-http://srvx.io:80/live/AQd2b/mhqjH/72029.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72029.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai SD
-http://srvx.io:80/live/AQd2b/mhqjH/72030.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72030.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72032.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72032.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu HD
-http://srvx.io:80/live/AQd2b/mhqjH/72033.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72033.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu SD
-http://srvx.io:80/live/AQd2b/mhqjH/72034.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72034.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72031.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72031.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa HD
-http://srvx.io:80/live/AQd2b/mhqjH/72035.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72035.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa SD
-http://srvx.io:80/live/AQd2b/mhqjH/72039.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72039.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72036.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72036.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa HD
-http://srvx.io:80/live/AQd2b/mhqjH/72037.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72037.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa SD
-http://srvx.io:80/live/AQd2b/mhqjH/72038.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72038.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72040.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72040.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP HD
-http://srvx.io:80/live/AQd2b/mhqjH/72041.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72041.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP SD
-http://srvx.io:80/live/AQd2b/mhqjH/72042.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72042.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72043.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72043.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera HD
-http://srvx.io:80/live/AQd2b/mhqjH/72044.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72044.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera SD
-http://srvx.io:80/live/AQd2b/mhqjH/72045.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72045.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72046.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72046.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco HD
-http://srvx.io:80/live/AQd2b/mhqjH/72047.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72047.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco SD
-http://srvx.io:80/live/AQd2b/mhqjH/72048.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72048.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72049.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72049.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America HD
-http://srvx.io:80/live/AQd2b/mhqjH/72050.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72050.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America SD
-http://srvx.io:80/live/AQd2b/mhqjH/72051.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72051.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72052.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72052.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina HD
-http://srvx.io:80/live/AQd2b/mhqjH/72053.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72053.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina SD
-http://srvx.io:80/live/AQd2b/mhqjH/72054.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72054.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72055.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72055.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas HD
-http://srvx.io:80/live/AQd2b/mhqjH/72056.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72056.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas SD
-http://srvx.io:80/live/AQd2b/mhqjH/72057.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72057.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72058.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72058.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul HD
-http://srvx.io:80/live/AQd2b/mhqjH/72059.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72059.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul SD
-http://srvx.io:80/live/AQd2b/mhqjH/72060.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72060.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72061.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72061.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria HD
-http://srvx.io:80/live/AQd2b/mhqjH/72062.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72062.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria SD
-http://srvx.io:80/live/AQd2b/mhqjH/72063.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72063.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72064.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72064.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa HD
-http://srvx.io:80/live/AQd2b/mhqjH/72065.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72065.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa SD
-http://srvx.io:80/live/AQd2b/mhqjH/72066.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72066.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72067.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72067.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora HD
-http://srvx.io:80/live/AQd2b/mhqjH/72068.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72068.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora SD
-http://srvx.io:80/live/AQd2b/mhqjH/72069.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72069.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72070.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72070.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem HD
-http://srvx.io:80/live/AQd2b/mhqjH/72071.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72071.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem SD
-http://srvx.io:80/live/AQd2b/mhqjH/72072.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72072.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72073.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72073.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis HD
-http://srvx.io:80/live/AQd2b/mhqjH/72074.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72074.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis SD
-http://srvx.io:80/live/AQd2b/mhqjH/72075.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72075.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72076.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72076.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena HD
-http://srvx.io:80/live/AQd2b/mhqjH/72077.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72077.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena SD
-http://srvx.io:80/live/AQd2b/mhqjH/72078.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72078.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | 4K [FHDR]",Globo TV Rio Sul 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/72080.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72080.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72079.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72079.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul HD
-http://srvx.io:80/live/AQd2b/mhqjH/72081.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72081.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul SD
-http://srvx.io:80/live/AQd2b/mhqjH/72082.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72082.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72083.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72083.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz HD
-http://srvx.io:80/live/AQd2b/mhqjH/72084.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72084.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz SD
-http://srvx.io:80/live/AQd2b/mhqjH/72085.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72085.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72086.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72086.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe HD
-http://srvx.io:80/live/AQd2b/mhqjH/72087.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72087.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe SD
-http://srvx.io:80/live/AQd2b/mhqjH/72088.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72088.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72089.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72089.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae HD
-http://srvx.io:80/live/AQd2b/mhqjH/72090.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72090.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae SD
-http://srvx.io:80/live/AQd2b/mhqjH/72091.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72091.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72092.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72092.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste HD
-http://srvx.io:80/live/AQd2b/mhqjH/72093.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72093.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste SD
-http://srvx.io:80/live/AQd2b/mhqjH/72094.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72094.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Bauru SD
-http://srvx.io:80/live/AQd2b/mhqjH/72616.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72616.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM S.J Rio Preto SD
-http://srvx.io:80/live/AQd2b/mhqjH/72622.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72622.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sorocaba SD
-http://srvx.io:80/live/AQd2b/mhqjH/72623.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72623.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos SD
-http://srvx.io:80/live/AQd2b/mhqjH/72596.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72596.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos SD
+http://srvx.io:80/live/8afBq/Uv6d4/72624.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72095.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72095.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares HD
-http://srvx.io:80/live/AQd2b/mhqjH/72096.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72096.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares SD
-http://srvx.io:80/live/AQd2b/mhqjH/72097.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72097.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72098.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72098.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72099.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72099.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob HD
-http://srvx.io:80/live/AQd2b/mhqjH/72100.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72100.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob SD
-http://srvx.io:80/live/AQd2b/mhqjH/72101.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72101.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72102.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72102.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72103.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72103.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT HD
-http://srvx.io:80/live/AQd2b/mhqjH/72104.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72104.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT SD
-http://srvx.io:80/live/AQd2b/mhqjH/72105.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72105.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72106.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72106.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72107.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72107.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72108.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72108.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72109.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72109.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72110.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72110.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72111.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72111.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72112.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72112.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72113.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72113.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72114.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72114.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72115.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72115.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family HD
-http://srvx.io:80/live/AQd2b/mhqjH/72116.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72116.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family SD
-http://srvx.io:80/live/AQd2b/mhqjH/72117.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72117.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72118.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72118.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72119.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72119.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO HD
-http://srvx.io:80/live/AQd2b/mhqjH/72120.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72120.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72121.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72122.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72122.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi HD
-http://srvx.io:80/live/AQd2b/mhqjH/72123.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72123.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi SD
-http://srvx.io:80/live/AQd2b/mhqjH/72124.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72124.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72125.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72125.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72126.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72126.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus HD
-http://srvx.io:80/live/AQd2b/mhqjH/72127.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72127.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus SD
-http://srvx.io:80/live/AQd2b/mhqjH/72128.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72128.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72129.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72129.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72130.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72130.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop HD
-http://srvx.io:80/live/AQd2b/mhqjH/72131.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72131.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop SD
-http://srvx.io:80/live/AQd2b/mhqjH/72132.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72132.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO SD
-http://srvx.io:80/live/AQd2b/mhqjH/72133.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72133.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72134.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72134.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72135.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72135.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature HD
-http://srvx.io:80/live/AQd2b/mhqjH/72136.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72136.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature SD
-http://srvx.io:80/live/AQd2b/mhqjH/72137.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72137.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72138.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72138.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72139.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72139.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme HD
-http://srvx.io:80/live/AQd2b/mhqjH/72140.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72140.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme SD
-http://srvx.io:80/live/AQd2b/mhqjH/72141.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72141.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72142.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72142.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72143.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72143.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV HD
-http://srvx.io:80/live/AQd2b/mhqjH/72144.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72144.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV SD
-http://srvx.io:80/live/AQd2b/mhqjH/72145.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72145.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72146.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72146.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72147.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72147.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History HD
-http://srvx.io:80/live/AQd2b/mhqjH/72148.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72148.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History SD
-http://srvx.io:80/live/AQd2b/mhqjH/72149.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72149.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72150.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72150.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72151.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72151.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID HD
-http://srvx.io:80/live/AQd2b/mhqjH/72152.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72152.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID SD
-http://srvx.io:80/live/AQd2b/mhqjH/72153.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72153.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72154.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72154.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72155.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72155.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime HD
-http://srvx.io:80/live/AQd2b/mhqjH/72156.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72156.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime SD
-http://srvx.io:80/live/AQd2b/mhqjH/72157.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Liga Futsal 2020 HD
+http://srvx.io:80/live/8afBq/Uv6d4/73006.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72158.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72158.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72159.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72159.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like HD
-http://srvx.io:80/live/AQd2b/mhqjH/72160.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72160.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like SD
-http://srvx.io:80/live/AQd2b/mhqjH/72161.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72161.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Love Nature FHD [H265]
+http://srvx.io:80/live/8afBq/Uv6d4/73004.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais Globosat FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72162.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72162.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais Globosat FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72163.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72163.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais Globosat HD
-http://srvx.io:80/live/AQd2b/mhqjH/72164.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72164.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais Globosat SD
-http://srvx.io:80/live/AQd2b/mhqjH/72165.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72165.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | 4K [FHDR]",Megapix 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/72168.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72168.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72166.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72166.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72167.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72167.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix HD
-http://srvx.io:80/live/AQd2b/mhqjH/72169.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72169.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix SD
-http://srvx.io:80/live/AQd2b/mhqjH/72170.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72170.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72171.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72171.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72172.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72172.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV HD
-http://srvx.io:80/live/AQd2b/mhqjH/72173.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72173.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72174.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72174.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72175.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72175.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live HD
-http://srvx.io:80/live/AQd2b/mhqjH/72176.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72176.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",MTV Live SD
-http://srvx.io:80/live/AQd2b/mhqjH/72177.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72177.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",MTV SD
-http://srvx.io:80/live/AQd2b/mhqjH/72178.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72178.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | 4K [FHDR]",Multishow 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/72181.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72181.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72179.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72179.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72180.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72180.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow HD
-http://srvx.io:80/live/AQd2b/mhqjH/72182.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72182.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow SD
-http://srvx.io:80/live/AQd2b/mhqjH/72183.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72183.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72184.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72184.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72185.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72185.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil HD
-http://srvx.io:80/live/AQd2b/mhqjH/72186.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72186.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil SD
-http://srvx.io:80/live/AQd2b/mhqjH/72187.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72187.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72188.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72188.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72189.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72189.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids HD
-http://srvx.io:80/live/AQd2b/mhqjH/72190.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72190.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais | Infantis",Nat Geo Kids SD
-http://srvx.io:80/live/AQd2b/mhqjH/72191.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72191.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Documentários",Nat Geo Wild FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72192.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72192.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Documentários",Nat Geo Wild FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72193.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72193.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Documentários",Nat Geo Wild HD
-http://srvx.io:80/live/AQd2b/mhqjH/72194.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72194.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais | Documentários",Nat Geo Wild SD
-http://srvx.io:80/live/AQd2b/mhqjH/72195.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72195.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | 4K [FHDR]",National Geographic 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/72198.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72198.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72196.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72196.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72197.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72197.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic HD
-http://srvx.io:80/live/AQd2b/mhqjH/72199.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72199.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic SD
-http://srvx.io:80/live/AQd2b/mhqjH/72200.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72200.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72201.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72201.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72202.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72202.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr HD
-http://srvx.io:80/live/AQd2b/mhqjH/72203.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72203.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr SD
-http://srvx.io:80/live/AQd2b/mhqjH/72204.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72204.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72205.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72205.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72206.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72206.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
-http://srvx.io:80/live/AQd2b/mhqjH/72207.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72207.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon SD
-http://srvx.io:80/live/AQd2b/mhqjH/72208.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72208.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72209.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72209.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72210.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72210.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF HD
-http://srvx.io:80/live/AQd2b/mhqjH/72211.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72211.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF SD
-http://srvx.io:80/live/AQd2b/mhqjH/72212.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72212.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72213.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72213.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72216.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72216.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno HD
-http://srvx.io:80/live/AQd2b/mhqjH/72214.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72214.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno SD
-http://srvx.io:80/live/AQd2b/mhqjH/72215.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72215.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72217.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72217.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72218.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72218.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel HD
-http://srvx.io:80/live/AQd2b/mhqjH/72219.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72219.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel SD
-http://srvx.io:80/live/AQd2b/mhqjH/72220.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72220.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 1 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72225.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72225.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 1 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72226.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72226.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 1 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72227.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72227.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 1 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72228.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72228.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 2 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72229.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72229.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 2 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72230.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72230.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 2 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72231.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72231.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 2 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72232.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72232.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 3 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72233.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72233.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 3 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72234.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72234.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 3 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72235.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72235.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sir0W9M.png" group-title="Canais | Abertos",Polishop TV 3 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72236.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72236.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72237.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72237.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72238.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72238.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72239.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72239.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72240.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72240.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72241.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72241.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72242.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72242.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72243.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72243.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72244.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72244.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72245.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72245.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72246.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72246.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72247.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72247.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72248.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72248.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72249.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72249.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72250.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72250.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72251.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72251.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72252.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72252.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72253.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72253.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72254.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72254.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72255.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72255.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72256.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72256.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72257.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72257.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72258.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72258.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72259.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72259.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72260.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72260.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 8 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72261.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72261.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/72264.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72264.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72262.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72262.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72263.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72263.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
-http://srvx.io:80/live/AQd2b/mhqjH/72265.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72265.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
-http://srvx.io:80/live/AQd2b/mhqjH/72266.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72266.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72267.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72267.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72268.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72268.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil HD
-http://srvx.io:80/live/AQd2b/mhqjH/72269.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72269.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil SD
-http://srvx.io:80/live/AQd2b/mhqjH/72270.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72270.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72271.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72271.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News HD
-http://srvx.io:80/live/AQd2b/mhqjH/72272.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72272.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News SD
-http://srvx.io:80/live/AQd2b/mhqjH/72273.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72273.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV BA HD
+http://srvx.io:80/live/8afBq/Uv6d4/72976.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV Brasilia HD
-http://srvx.io:80/live/AQd2b/mhqjH/72629.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72629.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72274.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72274.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália HD
-http://srvx.io:80/live/AQd2b/mhqjH/72275.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72275.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália SD
-http://srvx.io:80/live/AQd2b/mhqjH/72276.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72276.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Goias FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72277.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72277.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Goias HD
-http://srvx.io:80/live/AQd2b/mhqjH/72278.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72278.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Goias SD
-http://srvx.io:80/live/AQd2b/mhqjH/72279.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72279.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior SP FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72280.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72280.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior SP HD
-http://srvx.io:80/live/AQd2b/mhqjH/72281.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72281.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior SP SD
-http://srvx.io:80/live/AQd2b/mhqjH/72282.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72282.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Itapoan FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72283.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72283.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Itapoan HD
-http://srvx.io:80/live/AQd2b/mhqjH/72284.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72284.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Itapoan SD
-http://srvx.io:80/live/AQd2b/mhqjH/72285.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72285.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Litoral/Vale FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72286.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72286.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Litoral/Vale HD
-http://srvx.io:80/live/AQd2b/mhqjH/72287.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72287.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Litoral/Vale SD
-http://srvx.io:80/live/AQd2b/mhqjH/72288.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72288.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV MG HD
-http://srvx.io:80/live/AQd2b/mhqjH/72619.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72619.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RIC Maringa FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72289.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72289.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RIC Maringa FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72290.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72290.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RIC Maringa HD
-http://srvx.io:80/live/AQd2b/mhqjH/72291.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72291.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RIC Maringa SD
-http://srvx.io:80/live/AQd2b/mhqjH/72292.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72292.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RJ HD
-http://srvx.io:80/live/AQd2b/mhqjH/72594.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72594.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV RS HD
+http://srvx.io:80/live/8afBq/Uv6d4/72974.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV RS SD
+http://srvx.io:80/live/8afBq/Uv6d4/72975.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP FHD  [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72595.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72595.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP HD
-http://srvx.io:80/live/AQd2b/mhqjH/72973.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72973.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72293.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72293.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72294.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72294.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida HD
-http://srvx.io:80/live/AQd2b/mhqjH/72295.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72295.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida SD
-http://srvx.io:80/live/AQd2b/mhqjH/72296.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72296.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72297.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72297.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72298.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72298.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV HD
-http://srvx.io:80/live/AQd2b/mhqjH/72299.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72299.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV SD
-http://srvx.io:80/live/AQd2b/mhqjH/72300.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72300.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/4Ve" group-title="Canais | Religiosos",RIT TV SD
-http://srvx.io:80/live/AQd2b/mhqjH/72301.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72301.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72303.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72303.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72304.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72304.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR HD
-http://srvx.io:80/live/AQd2b/mhqjH/72305.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72305.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR SD
-http://srvx.io:80/live/AQd2b/mhqjH/72306.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72306.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT RJ FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72307.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72307.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT RJ FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72308.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72308.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT RJ HD
-http://srvx.io:80/live/AQd2b/mhqjH/72302.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72302.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SD
-http://srvx.io:80/live/AQd2b/mhqjH/72309.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72309.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT SP HD
-http://srvx.io:80/live/AQd2b/mhqjH/72598.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72598.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",SBT TV Alterosa HD
-http://srvx.io:80/live/AQd2b/mhqjH/72621.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72621.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Shoptime SD
-http://srvx.io:80/live/AQd2b/mhqjH/72311.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72311.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sic.png" group-title="Canais | Variedades",SIC Internacional SD
-http://srvx.io:80/live/AQd2b/mhqjH/72312.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72312.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72313.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72313.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72314.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72314.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian HD
-http://srvx.io:80/live/AQd2b/mhqjH/72315.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72315.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian SD
-http://srvx.io:80/live/AQd2b/mhqjH/72316.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72316.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72317.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72317.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72318.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72318.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space HD
-http://srvx.io:80/live/AQd2b/mhqjH/72319.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72319.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space SD
-http://srvx.io:80/live/AQd2b/mhqjH/72320.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72320.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72321.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72321.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72322.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72322.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72323.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72323.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72324.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72324.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72325.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72325.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72326.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72326.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72327.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72327.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72328.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72328.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | 4K [FHDR]",SporTV 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/72331.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72331.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72329.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72329.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72330.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72330.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV HD
-http://srvx.io:80/live/AQd2b/mhqjH/72332.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72332.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV SD
-http://srvx.io:80/live/AQd2b/mhqjH/72333.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72333.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72334.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72334.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72335.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72335.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal HD
-http://srvx.io:80/live/AQd2b/mhqjH/72336.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72336.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal SD
-http://srvx.io:80/live/AQd2b/mhqjH/72337.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72337.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72338.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72338.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72339.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72339.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy HD
-http://srvx.io:80/live/AQd2b/mhqjH/72340.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72340.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy SD
-http://srvx.io:80/live/AQd2b/mhqjH/72341.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72341.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72342.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72342.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72343.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72343.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS HD
-http://srvx.io:80/live/AQd2b/mhqjH/72344.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72344.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS SD
-http://srvx.io:80/live/AQd2b/mhqjH/72345.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72345.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM FHD
+http://srvx.io:80/live/8afBq/Uv6d4/73251.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM HD
+http://srvx.io:80/live/8afBq/Uv6d4/73252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM SD 
+http://srvx.io:80/live/8afBq/Uv6d4/73253.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72346.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72346.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72347.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72347.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action HD
-http://srvx.io:80/live/AQd2b/mhqjH/72348.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72348.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
-http://srvx.io:80/live/AQd2b/mhqjH/72349.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72349.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72350.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72350.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72351.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72351.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult HD
-http://srvx.io:80/live/AQd2b/mhqjH/72352.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72352.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult SD
-http://srvx.io:80/live/AQd2b/mhqjH/72353.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72353.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72354.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72354.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72355.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72355.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun HD
-http://srvx.io:80/live/AQd2b/mhqjH/72356.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72356.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun SD
-http://srvx.io:80/live/AQd2b/mhqjH/72357.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72357.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72358.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72358.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72359.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72359.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca HD
-http://srvx.io:80/live/AQd2b/mhqjH/72360.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72360.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca SD
-http://srvx.io:80/live/AQd2b/mhqjH/72361.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72361.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72362.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72362.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72363.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72363.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium HD
-http://srvx.io:80/live/AQd2b/mhqjH/72364.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72364.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium SD
-http://srvx.io:80/live/AQd2b/mhqjH/72365.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72365.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72366.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72366.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72367.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72367.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch HD
-http://srvx.io:80/live/AQd2b/mhqjH/72368.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72368.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch SD
-http://srvx.io:80/live/AQd2b/mhqjH/72369.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72369.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/uYJ" group-title="Canais | Religiosos",Terra Viva SD
-http://srvx.io:80/live/AQd2b/mhqjH/72370.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72370.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72371.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72371.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72372.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72372.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC HD
-http://srvx.io:80/live/AQd2b/mhqjH/72373.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72373.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC SD
-http://srvx.io:80/live/AQd2b/mhqjH/72374.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72374.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | 4K [FHDR]",TNT 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/72377.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72377.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72375.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72375.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72376.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72376.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT HD
-http://srvx.io:80/live/AQd2b/mhqjH/72378.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72378.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT SD
-http://srvx.io:80/live/AQd2b/mhqjH/72379.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72379.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | 4K [FHDR]",TNT Series 4K FHDR
-http://srvx.io:80/live/AQd2b/mhqjH/72382.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72382.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72380.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72380.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72381.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72381.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series HD
-http://srvx.io:80/live/AQd2b/mhqjH/72383.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72383.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series SD
-http://srvx.io:80/live/AQd2b/mhqjH/72384.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72384.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis",Tooncast SD
-http://srvx.io:80/live/AQd2b/mhqjH/72385.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72385.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72386.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72386.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72387.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72387.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca HD
-http://srvx.io:80/live/AQd2b/mhqjH/72388.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72388.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca SD
-http://srvx.io:80/live/AQd2b/mhqjH/72389.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72389.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72390.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72390.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72391.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72391.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil HD
-http://srvx.io:80/live/AQd2b/mhqjH/72392.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72392.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil SD
-http://srvx.io:80/live/AQd2b/mhqjH/72393.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72393.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72394.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72394.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72395.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72395.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida HD
-http://srvx.io:80/live/AQd2b/mhqjH/72396.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72396.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida SD
-http://srvx.io:80/live/AQd2b/mhqjH/72397.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72397.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil 2 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72398.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72398.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72399.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72399.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72400.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72400.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil HD
-http://srvx.io:80/live/AQd2b/mhqjH/72401.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72401.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil SD
-http://srvx.io:80/live/AQd2b/mhqjH/72402.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72402.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/kpT" group-title="Canais | Abertos",TV Camara SD
-http://srvx.io:80/live/AQd2b/mhqjH/72403.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72403.m3u8
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/cancaonova.png" group-title="Canais | Religiosos",TV Cancao Nova SD
-http://srvx.io:80/live/AQd2b/mhqjH/72404.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72404.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Diario Fortaleza HD
-http://srvx.io:80/live/AQd2b/mhqjH/72593.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72593.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Evangelizar SD
-http://srvx.io:80/live/AQd2b/mhqjH/72628.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72628.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72405.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72405.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP HD
-http://srvx.io:80/live/AQd2b/mhqjH/72406.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72406.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP SD
-http://srvx.io:80/live/AQd2b/mhqjH/72407.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72407.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72408.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72408.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72409.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72409.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo HD
-http://srvx.io:80/live/AQd2b/mhqjH/72410.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72410.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo SD
-http://srvx.io:80/live/AQd2b/mhqjH/72411.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72411.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72412.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72412.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72413.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72413.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
-http://srvx.io:80/live/AQd2b/mhqjH/72414.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72414.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum SD
-http://srvx.io:80/live/AQd2b/mhqjH/72415.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72415.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos",TV Senado SD
-http://srvx.io:80/live/AQd2b/mhqjH/72416.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",TV Vanguarda S.J dos Campos
-http://srvx.io:80/live/AQd2b/mhqjH/72624.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72416.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",TV WA SD
-http://srvx.io:80/live/AQd2b/mhqjH/72417.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72417.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",TV5 Monde SD
-http://srvx.io:80/live/AQd2b/mhqjH/72418.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72418.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72419.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72419.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72420.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72420.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV HD
-http://srvx.io:80/live/AQd2b/mhqjH/72421.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72421.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV SD
-http://srvx.io:80/live/AQd2b/mhqjH/72422.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72422.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",VH1 FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72423.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72423.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",VH1 FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72424.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72424.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",VH1 HD
-http://srvx.io:80/live/AQd2b/mhqjH/72425.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72425.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",VH1 SD
-http://srvx.io:80/live/AQd2b/mhqjH/72426.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72426.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72427.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72427.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72428.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72428.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva HD
-http://srvx.io:80/live/AQd2b/mhqjH/72429.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72429.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva SD
-http://srvx.io:80/live/AQd2b/mhqjH/72430.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72430.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72431.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72431.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72432.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72432.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel HD
-http://srvx.io:80/live/AQd2b/mhqjH/72433.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72433.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel SD
-http://srvx.io:80/live/AQd2b/mhqjH/72434.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72434.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo FHD
-http://srvx.io:80/live/AQd2b/mhqjH/72435.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72435.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo FHD [H265]
-http://srvx.io:80/live/AQd2b/mhqjH/72436.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72436.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo HD
-http://srvx.io:80/live/AQd2b/mhqjH/72437.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72437.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo SD
-http://srvx.io:80/live/AQd2b/mhqjH/72438.m3u8
+http://srvx.io:80/live/8afBq/Uv6d4/72438.m3u8
